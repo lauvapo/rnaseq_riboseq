@@ -10,7 +10,7 @@
 #   enrichment_results/regulon/*.tsv (one per gene set)
 # ============================================================
 
-source(file.path(pipeline_dir, "04_enrichment_common.R"))
+source(file.path(pipeline_dir, "utils/04_enrichment_common.R"))
 # (defines `all_info`, `background`, and the annotation/ORA helpers)
 
 suppressPackageStartupMessages({

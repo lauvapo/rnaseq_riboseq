@@ -11,7 +11,7 @@
 #   enrichment_results/imodulons/*.tsv (one per gene set)
 # ============================================================
 
-source(file.path(pipeline_dir, "04_enrichment_common.R"))
+source(file.path(pipeline_dir, "utils/04_enrichment_common.R"))
 
 suppressPackageStartupMessages({
   library(dplyr)

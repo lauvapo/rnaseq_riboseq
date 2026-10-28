@@ -10,7 +10,7 @@
 #   enrichment_results/go_pathway_ora_results.tsv
 # ============================================================
 
-source(file.path(pipeline_dir, "04_enrichment_common.R"))
+source(file.path(pipeline_dir, "utils/04_enrichment_common.R"))
 # (defines `all_info`, `background`, and the annotation/ORA helpers used below -
 # see that file for what ORA/hypergeometric enrichment actually computes)
 

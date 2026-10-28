@@ -27,32 +27,43 @@ pipeline_dir <- if (length(script_path) > 0) dirname(normalizePath(script_path))
 # (e.g. 06 reuses `all_info` loaded by 00; 07/09 reuse the ORA helpers
 # loaded by 05 via 06). The banner just makes long log output
 # skimmable when something fails partway through.
-run_step <- function(script_name) {
+run_step <- function(script_path) {
   cat("\n================================================================\n")
-  cat("STEP:", script_name, "\n")
+  cat("STEP:", script_path, "\n")
   cat("================================================================\n")
-  source(file.path(pipeline_dir, script_name), echo = FALSE)
+  source(file.path(pipeline_dir, script_path), echo = FALSE)
 }
 
 source(file.path(pipeline_dir, "00_config.R"))
 
-run_step("02_quality_control_correlations.R")
-run_step("03_differential_expression.R")
-run_step("04_upset_plot.R")
-run_step("05b_volcano_plots.R")
-run_step("05c_scatter_transcriptome_translatome.R")
-run_step("05d_gene_category_heatmaps.R")
-run_step("05_transcription_network_analysis.R")
-run_step("05_enrichment_go_pathway.R")
-run_step("05_enrichment_regulon.R")
-run_step("05_enrichment_imodulons.R")
-run_step("06_export_spreadsheets.R")
-run_step("07_summary_figures.R")
-run_step("08_enrichment_heatmaps.R")
-run_step("09_enrichment_logfc_heatmaps.R")
-run_step("10_gene_logfc_heatmaps.R")
-run_step("11_curated_gene_heatmap.R")
-run_step("12_pathway_ridgeplots.R")
+# 01. Quality Control
+run_step("quality_control/02_quality_control_correlations.R")
+
+# 02. Differential Expression
+run_step("differential_expression/03_differential_expression.R")
+
+# 03. Visualization - Data exploration
+run_step("visualization/04_upset_plot.R")
+run_step("visualization/05b_volcano_plots.R")
+run_step("visualization/05c_scatter_transcriptome_translatome.R")
+run_step("visualization/05d_gene_category_heatmaps.R")
+
+# 04. Enrichment Analysis
+run_step("enrichment_analysis/05_transcription_network_analysis.R")
+run_step("enrichment_analysis/05_enrichment_go_pathway.R")
+run_step("enrichment_analysis/05_enrichment_regulon.R")
+run_step("enrichment_analysis/05_enrichment_imodulons.R")
+
+# 05. Visualization - Enrichment results
+run_step("visualization/08_enrichment_heatmaps.R")
+run_step("visualization/09_enrichment_logfc_heatmaps.R")
+run_step("visualization/10_gene_logfc_heatmaps.R")
+run_step("visualization/11_curated_gene_heatmap.R")
+run_step("visualization/12_pathway_ridgeplots.R")
+
+# 06. Export and Summary
+run_step("export_summary/06_export_spreadsheets.R")
+run_step("export_summary/07_summary_figures.R")
 
 cat("\n================================================================\n")
 cat("Pipeline finished!\n")
