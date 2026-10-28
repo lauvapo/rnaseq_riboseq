@@ -1,0 +1,1232 @@
+iModulon	iModulon_Name	Regulator	Gene
+0	SigH	sigH	Rv0039c
+0	SigH	sigH	Rv0040c
+0	SigH	sigH	Rv0063
+0	SigH	sigH	Rv0129c
+0	SigH	sigH	Rv0179c
+0	SigH	sigH	Rv0208c
+0	SigH	sigH	Rv0309
+0	SigH	sigH	Rv0312
+0	SigH	sigH	Rv0888
+0	SigH	sigH	Rv1075c
+0	SigH	sigH	Rv1076
+0	SigH	sigH	Rv1157c
+0	SigH	sigH	Rv1158c
+0	SigH	sigH	Rv1433
+0	SigH	sigH	Rv1435c
+0	SigH	sigH	Rv1469
+0	SigH	sigH	Rv1477
+0	SigH	sigH	Rv1478
+0	SigH	sigH	Rv1497
+0	SigH	sigH	Rv1566c
+0	SigH	sigH	Rv1690
+0	SigH	sigH	Rv1698
+0	SigH	sigH	Rv1754c
+0	SigH	sigH	Rv1772
+0	SigH	sigH	Rv1773c
+0	SigH	sigH	Rv1987
+0	SigH	sigH	Rv2075c
+0	SigH	sigH	Rv2292c
+0	SigH	sigH	Rv2293c
+0	SigH	sigH	Rv2525c
+0	SigH	sigH	Rv2721c
+0	SigH	sigH	Rv2894c
+0	SigH	sigH	Rv3209
+0	SigH	sigH	Rv3310
+0	SigH	sigH	Rv3313c
+0	SigH	sigH	Rv3341
+0	SigH	sigH	Rv3342
+0	SigH	sigH	Rv3352c
+0	SigH	sigH	Rv3353c
+0	SigH	sigH	Rv3354
+0	SigH	sigH	Rv3413c
+0	SigH	sigH	Rv3414c
+0	SigH	sigH	Rv3675
+0	SigH	sigH	Rv3717
+0	SigH	sigH	Rv3810
+1	Polyketide Synthase Complex	N/A	Rv2932
+1	Polyketide Synthase Complex	N/A	Rv2933
+2	IniR	iniR	Rv0341
+2	IniR	iniR	Rv0342
+2	IniR	iniR	Rv0343
+3	PyrR	pyrR	Rv0071
+3	PyrR	pyrR	Rv0072
+3	PyrR	pyrR	Rv0073
+3	PyrR	pyrR	Rv0826
+3	PyrR	pyrR	Rv1573
+3	PyrR	pyrR	Rv1574
+3	PyrR	pyrR	Rv1575
+3	PyrR	pyrR	Rv1576c
+3	PyrR	pyrR	Rv1577c
+3	PyrR	pyrR	Rv1578c
+3	PyrR	pyrR	Rv1579c
+3	PyrR	pyrR	Rv1580c
+3	PyrR	pyrR	Rv1581c
+3	PyrR	pyrR	Rv1582c
+3	PyrR	pyrR	Rv1583c
+3	PyrR	pyrR	Rv1584c
+3	PyrR	pyrR	Rv1585c
+3	PyrR	pyrR	Rv1586c
+3	PyrR	pyrR	Rv1759c
+3	PyrR	pyrR	Rv1760
+3	PyrR	pyrR	Rv1761c
+3	PyrR	pyrR	Rv1762c
+3	PyrR	pyrR	Rv2017
+3	PyrR	pyrR	Rv2077c
+3	PyrR	pyrR	Rv2107
+3	PyrR	pyrR	Rv2108
+3	PyrR	pyrR	Rv2159c
+3	PyrR	pyrR	Rv2353c
+3	PyrR	pyrR	Rv2478c
+3	PyrR	pyrR	Rv2527
+3	PyrR	pyrR	Rv2658c
+3	PyrR	pyrR	Rv2659c
+3	PyrR	pyrR	Rv2818c
+3	PyrR	pyrR	Rv2819c
+3	PyrR	pyrR	Rv3143
+3	PyrR	pyrR	Rv3322c
+3	PyrR	pyrR	Rv3323c
+3	PyrR	pyrR	Rv3324c
+3	PyrR	pyrR	Rv3366
+3	PyrR	pyrR	Rv3407
+3	PyrR	pyrR	Rv3408
+3	PyrR	pyrR	Rv3473c
+3	PyrR	pyrR	Rv3829c
+3	PyrR	pyrR	Rv3831
+4	WhiB4	whiB4	Rv0054
+4	WhiB4	whiB4	Rv0055
+4	WhiB4	whiB4	Rv0056
+4	WhiB4	whiB4	Rv0057
+4	WhiB4	whiB4	Rv0058
+4	WhiB4	whiB4	Rv0059
+4	WhiB4	whiB4	Rv0060
+4	WhiB4	whiB4	Rv0071
+4	WhiB4	whiB4	Rv0094c
+4	WhiB4	whiB4	Rv0095c
+4	WhiB4	whiB4	Rv0181c
+4	WhiB4	whiB4	Rv0182c
+4	WhiB4	whiB4	Rv0184
+4	WhiB4	whiB4	Rv0185
+4	WhiB4	whiB4	Rv0186
+4	WhiB4	whiB4	Rv0336
+4	WhiB4	whiB4	Rv0515
+4	WhiB4	whiB4	Rv0605
+4	WhiB4	whiB4	Rv0607
+4	WhiB4	whiB4	Rv0621
+4	WhiB4	whiB4	Rv0921
+4	WhiB4	whiB4	Rv0922
+4	WhiB4	whiB4	Rv1000c
+4	WhiB4	whiB4	Rv1128c
+4	WhiB4	whiB4	Rv1148c
+4	WhiB4	whiB4	Rv1277
+4	WhiB4	whiB4	Rv1278
+4	WhiB4	whiB4	Rv1279
+4	WhiB4	whiB4	Rv1316c
+4	WhiB4	whiB4	Rv1317c
+4	WhiB4	whiB4	Rv1377c
+4	WhiB4	whiB4	Rv1378c
+4	WhiB4	whiB4	Rv1406
+4	WhiB4	whiB4	Rv1407
+4	WhiB4	whiB4	Rv1547
+4	WhiB4	whiB4	Rv1587c
+4	WhiB4	whiB4	Rv1588c
+4	WhiB4	whiB4	Rv1702c
+4	WhiB4	whiB4	Rv1765c
+4	WhiB4	whiB4	Rv1833c
+4	WhiB4	whiB4	Rv1945
+4	WhiB4	whiB4	Rv1961
+4	WhiB4	whiB4	Rv2012
+4	WhiB4	whiB4	Rv2015c
+4	WhiB4	whiB4	Rv2024c
+4	WhiB4	whiB4	Rv2100
+4	WhiB4	whiB4	Rv2119
+4	WhiB4	whiB4	Rv2191
+4	WhiB4	whiB4	Rv2308
+4	WhiB4	whiB4	Rv2308a
+4	WhiB4	whiB4	Rv2312
+4	WhiB4	whiB4	Rv2578c
+4	WhiB4	whiB4	Rv2579
+4	WhiB4	whiB4	Rv2592c
+4	WhiB4	whiB4	Rv2593c
+4	WhiB4	whiB4	Rv2594c
+4	WhiB4	whiB4	Rv2717c
+4	WhiB4	whiB4	Rv2718c
+4	WhiB4	whiB4	Rv2719c
+4	WhiB4	whiB4	Rv2720
+4	WhiB4	whiB4	Rv2722
+4	WhiB4	whiB4	Rv2734
+4	WhiB4	whiB4	Rv2735c
+4	WhiB4	whiB4	Rv2736c
+4	WhiB4	whiB4	Rv2737c
+4	WhiB4	whiB4	Rv2789c
+4	WhiB4	whiB4	Rv2790c
+4	WhiB4	whiB4	Rv2792c
+4	WhiB4	whiB4	Rv2885c
+4	WhiB4	whiB4	Rv2886c
+4	WhiB4	whiB4	Rv2976c
+4	WhiB4	whiB4	Rv2977c
+4	WhiB4	whiB4	Rv2978c
+4	WhiB4	whiB4	Rv2979c
+4	WhiB4	whiB4	Rv3074
+4	WhiB4	whiB4	Rv3190A
+4	WhiB4	whiB4	Rv3198A
+4	WhiB4	whiB4	Rv3201c
+4	WhiB4	whiB4	Rv3202c
+4	WhiB4	whiB4	Rv3226c
+4	WhiB4	whiB4	Rv3263
+4	WhiB4	whiB4	Rv3296
+4	WhiB4	whiB4	Rv3297
+4	WhiB4	whiB4	Rv3370c
+4	WhiB4	whiB4	Rv3394c
+4	WhiB4	whiB4	Rv3395c
+4	WhiB4	whiB4	Rv3517
+4	WhiB4	whiB4	Rv3555c
+4	WhiB4	whiB4	Rv3585
+4	WhiB4	whiB4	Rv3586
+4	WhiB4	whiB4	Rv3644c
+4	WhiB4	whiB4	Rv3714c
+4	WhiB4	whiB4	Rv3776
+4	WhiB4	whiB4	Rv3827c
+4	WhiB4	whiB4	Rv3828c
+5	DevR-1	devR	Rv0079
+5	DevR-1	devR	Rv0080
+5	DevR-1	devR	Rv0569
+5	DevR-1	devR	Rv1733c
+5	DevR-1	devR	Rv1736c
+5	DevR-1	devR	Rv1737c
+5	DevR-1	devR	Rv1738
+5	DevR-1	devR	Rv1813c
+5	DevR-1	devR	Rv1996
+5	DevR-1	devR	Rv1997
+5	DevR-1	devR	Rv2007c
+5	DevR-1	devR	Rv2030c
+5	DevR-1	devR	Rv2031c
+5	DevR-1	devR	Rv2032
+5	DevR-1	devR	Rv2623
+5	DevR-1	devR	Rv2626c
+5	DevR-1	devR	Rv2627c
+5	DevR-1	devR	Rv2628
+5	DevR-1	devR	Rv3127
+5	DevR-1	devR	Rv3130c
+5	DevR-1	devR	Rv3131
+5	DevR-1	devR	Rv3134c
+6	MarR	marR	Rv0195
+6	MarR	marR	Rv0453
+6	MarR	marR	Rv0575c
+6	MarR	marR	Rv1116
+6	MarR	marR	Rv1375
+6	MarR	marR	Rv1376
+6	MarR	marR	Rv1403c
+6	MarR	marR	Rv1405c
+6	MarR	marR	Rv1507A
+6	MarR	marR	Rv1682
+6	MarR	marR	Rv1706c
+6	MarR	marR	Rv2389c
+6	MarR	marR	Rv2390c
+6	MarR	marR	Rv3532
+6	MarR	marR	Rv3745c
+6	MarR	marR	Rv3746c
+7	GroEL-GroES Complex	N/A	Rv0047c
+7	GroEL-GroES Complex	N/A	Rv0350
+7	GroEL-GroES Complex	N/A	Rv0351
+7	GroEL-GroES Complex	N/A	Rv0352
+7	GroEL-GroES Complex	N/A	Rv0440
+7	GroEL-GroES Complex	N/A	Rv0991c
+7	GroEL-GroES Complex	N/A	Rv3417c
+7	GroEL-GroES Complex	N/A	Rv3418c
+8	IdeR	ideR	Rv0283
+8	IdeR	ideR	Rv0284
+8	IdeR	ideR	Rv0285
+8	IdeR	ideR	Rv0286
+8	IdeR	ideR	Rv0287
+8	IdeR	ideR	Rv0288
+8	IdeR	ideR	Rv0289
+8	IdeR	ideR	Rv0290
+8	IdeR	ideR	Rv0291
+8	IdeR	ideR	Rv0338c
+8	IdeR	ideR	Rv0449c
+8	IdeR	ideR	Rv0450c
+8	IdeR	ideR	Rv0451c
+8	IdeR	ideR	Rv0481c
+8	IdeR	ideR	Rv1342c
+8	IdeR	ideR	Rv1343c
+8	IdeR	ideR	Rv1344
+8	IdeR	ideR	Rv1345
+8	IdeR	ideR	Rv1346
+8	IdeR	ideR	Rv1347c
+8	IdeR	ideR	Rv1348
+8	IdeR	ideR	Rv1349
+8	IdeR	ideR	Rv1519
+8	IdeR	ideR	Rv1520
+8	IdeR	ideR	Rv1847
+8	IdeR	ideR	Rv2121c
+8	IdeR	ideR	Rv2122c
+8	IdeR	ideR	Rv2123
+8	IdeR	ideR	Rv2377c
+8	IdeR	ideR	Rv2378c
+8	IdeR	ideR	Rv2379c
+8	IdeR	ideR	Rv2380c
+8	IdeR	ideR	Rv2381c
+8	IdeR	ideR	Rv2382c
+8	IdeR	ideR	Rv2383c
+8	IdeR	ideR	Rv2384
+8	IdeR	ideR	Rv2385
+8	IdeR	ideR	Rv2386c
+8	IdeR	ideR	Rv2622
+8	IdeR	ideR	Rv3402c
+8	IdeR	ideR	Rv3403c
+8	IdeR	ideR	Rv3839
+8	IdeR	ideR	Rv3840
+8	IdeR	ideR	Rv3841
+9	SigK	sigK	Rv0446c
+9	SigK	sigK	Rv0447c
+9	SigK	sigK	Rv0448c
+9	SigK	sigK	Rv0449c
+9	SigK	sigK	Rv2873
+9	SigK	sigK	Rv2874
+9	SigK	sigK	Rv2875
+9	SigK	sigK	Rv2876
+10	RicR	ricR	Rv0186A
+10	RicR	ricR	Rv0190
+10	RicR	ricR	Rv0846c
+10	RicR	ricR	Rv0847
+10	RicR	ricR	Rv0848
+10	RicR	ricR	Rv0849
+10	RicR	ricR	Rv0967
+10	RicR	ricR	Rv0968
+10	RicR	ricR	Rv0969
+10	RicR	ricR	Rv1812c
+10	RicR	ricR	Rv1813c
+10	RicR	ricR	Rv2654c
+10	RicR	ricR	Rv2963
+10	RicR	ricR	Rv2964
+11	EccE1 KO	N/A	Rv3882c
+11	EccE1 KO	N/A	Rv3883c
+12	Mycofactocin Synthesis Pathway	N/A	Rv0691A
+12	Mycofactocin Synthesis Pathway	N/A	Rv0692
+12	Mycofactocin Synthesis Pathway	N/A	Rv0693
+12	Mycofactocin Synthesis Pathway	N/A	Rv0694
+12	Mycofactocin Synthesis Pathway	N/A	Rv0695
+12	Mycofactocin Synthesis Pathway	N/A	Rv3269
+13	SG_1	N/A	Rv2635
+13	SG_1	N/A	Rv3113
+13	SG_1	N/A	Rv3745c
+14	SG_2	N/A	Rv1706A
+14	SG_2	N/A	Rv2546
+15	BkaR	bkaR	Rv2498c
+15	BkaR	bkaR	Rv2499c
+15	BkaR	bkaR	Rv2500c
+15	BkaR	bkaR	Rv2501c
+15	BkaR	bkaR	Rv2502c
+15	BkaR	bkaR	Rv2503c
+15	BkaR	bkaR	Rv2504c
+15	BkaR	bkaR	Rv2505c
+16	Mce3R	mce3R	Rv1935c
+16	Mce3R	mce3R	Rv1936
+16	Mce3R	mce3R	Rv1937
+16	Mce3R	mce3R	Rv1939
+16	Mce3R	mce3R	Rv1964
+16	Mce3R	mce3R	Rv1965
+16	Mce3R	mce3R	Rv1966
+16	Mce3R	mce3R	Rv1967
+16	Mce3R	mce3R	Rv1968
+16	Mce3R	mce3R	Rv1969
+16	Mce3R	mce3R	Rv1970
+16	Mce3R	mce3R	Rv1971
+16	Mce3R	mce3R	Rv1972
+16	Mce3R	mce3R	Rv1973
+16	Mce3R	mce3R	Rv1974
+17	VirS	virS	Rv3083
+17	VirS	virS	Rv3084
+17	VirS	virS	Rv3085
+17	VirS	virS	Rv3086
+17	VirS	virS	Rv3087
+17	VirS	virS	Rv3088
+17	VirS	virS	Rv3089
+18	Unc_1	N/A	Rv3288c
+18	Unc_1	N/A	Rv3289c
+18	Unc_1	N/A	Rv3290c
+19	WhiB6	whiB6	Rv1296
+19	WhiB6	whiB6	Rv1986
+19	WhiB6	whiB6	Rv2422
+19	WhiB6	whiB6	Rv3288c
+19	WhiB6	whiB6	Rv3289c
+19	WhiB6	whiB6	Rv3290c
+19	WhiB6	whiB6	Rv3291c
+19	WhiB6	whiB6	Rv3862c
+19	WhiB6	whiB6	Rv3872
+19	WhiB6	whiB6	Rv3873
+19	WhiB6	whiB6	Rv3874
+19	WhiB6	whiB6	Rv3875
+19	WhiB6	whiB6	Rv3876
+19	WhiB6	whiB6	Rv3877
+19	WhiB6	whiB6	Rv3878
+19	WhiB6	whiB6	Rv3879c
+20	FasR	fasR	Rv0244c
+20	FasR	fasR	Rv0859
+20	FasR	fasR	Rv0860
+20	FasR	fasR	Rv0971c
+20	FasR	fasR	Rv0972c
+20	FasR	fasR	Rv0973c
+20	FasR	fasR	Rv0974c
+20	FasR	fasR	Rv0975c
+20	FasR	fasR	Rv0976c
+20	FasR	fasR	Rv1856c
+20	FasR	fasR	Rv1857
+20	FasR	fasR	Rv2724c
+21	MprA	mprA	Rv1038c
+21	MprA	mprA	Rv1195
+21	MprA	mprA	Rv1196
+21	MprA	mprA	Rv1197
+21	MprA	mprA	Rv1198
+21	MprA	mprA	Rv2347c
+21	MprA	mprA	Rv3620c
+22	SG_3	N/A	Rv0603
+22	SG_3	N/A	Rv0793
+22	SG_3	N/A	Rv0887c
+22	SG_3	N/A	Rv1051c
+22	SG_3	N/A	Rv2224d
+22	SG_3	N/A	Rv2614A
+22	SG_3	N/A	Rv3638
+22	SG_3	N/A	Rv3653
+22	SG_3	N/A	Rv3656c
+23	PrpR	prpR	Rv1128c
+23	PrpR	prpR	Rv1129c
+23	PrpR	prpR	Rv1130
+23	PrpR	prpR	Rv1131
+23	PrpR	prpR	Rv1132
+24	Salicylate Induced	N/A	Rv0559c
+24	Salicylate Induced	N/A	Rv0560c
+25	Rv0078+Rv2034	Rv0078 and Rv2034	Rv0076c
+25	Rv0078+Rv2034	Rv0078 and Rv2034	Rv0077c
+25	Rv0078+Rv2034	Rv0078 and Rv2034	Rv0078
+26	EspL KO	N/A	Rv3862c
+26	EspL KO	N/A	Rv3880c
+27	Unc_2	N/A	Rv0474
+27	Unc_2	N/A	Rv3249c
+27	Unc_2	N/A	Rv3250c
+27	Unc_2	N/A	Rv3251c
+27	Unc_2	N/A	Rv3252c
+27	Unc_2	N/A	Rv3739c
+27	Unc_2	N/A	Rv3740c
+27	Unc_2	N/A	Rv3741c
+27	Unc_2	N/A	Rv3742c
+27	Unc_2	N/A	Rv3854c
+27	Unc_2	N/A	Rv3855
+28	WhiB1	whiB1	Rv0651
+28	WhiB1	whiB1	Rv0652
+28	WhiB1	whiB1	Rv0667
+28	WhiB1	whiB1	Rv0668
+28	WhiB1	whiB1	Rv0700
+28	WhiB1	whiB1	Rv0701
+28	WhiB1	whiB1	Rv0702
+28	WhiB1	whiB1	Rv0703
+28	WhiB1	whiB1	Rv0704
+28	WhiB1	whiB1	Rv0705
+28	WhiB1	whiB1	Rv0706
+28	WhiB1	whiB1	Rv0707
+28	WhiB1	whiB1	Rv0708
+28	WhiB1	whiB1	Rv0709
+28	WhiB1	whiB1	Rv0710
+28	WhiB1	whiB1	Rv0714
+28	WhiB1	whiB1	Rv0715
+28	WhiB1	whiB1	Rv0716
+28	WhiB1	whiB1	Rv0717
+28	WhiB1	whiB1	Rv0718
+28	WhiB1	whiB1	Rv0719
+28	WhiB1	whiB1	Rv0720
+28	WhiB1	whiB1	Rv0721
+28	WhiB1	whiB1	Rv0722
+28	WhiB1	whiB1	Rv0723
+28	WhiB1	whiB1	Rv3456c
+28	WhiB1	whiB1	Rv3457c
+28	WhiB1	whiB1	Rv3458c
+28	WhiB1	whiB1	Rv3459c
+28	WhiB1	whiB1	Rv3460c
+28	WhiB1	whiB1	Rv3920c
+28	WhiB1	whiB1	Rv3921c
+29	Blal	blaI	Rv0560c
+29	Blal	blaI	Rv1303
+29	Blal	blaI	Rv1304
+29	Blal	blaI	Rv1456c
+29	Blal	blaI	Rv1620c
+29	Blal	blaI	Rv1621c
+29	Blal	blaI	Rv1622c
+29	Blal	blaI	Rv1623c
+29	Blal	blaI	Rv1846c
+29	Blal	blaI	Rv2069
+29	Blal	blaI	Rv3290c
+30	HPT-2b Induced	N/A	Rv0327c
+30	HPT-2b Induced	N/A	Rv1992c
+30	HPT-2b Induced	N/A	Rv1993c
+30	HPT-2b Induced	N/A	Rv1994c
+30	HPT-2b Induced	N/A	Rv1995
+30	HPT-2b Induced	N/A	Rv2640c
+30	HPT-2b Induced	N/A	Rv2641
+30	HPT-2b Induced	N/A	Rv2642
+30	HPT-2b Induced	N/A	Rv2643
+30	HPT-2b Induced	N/A	Rv3054c
+30	HPT-2b Induced	N/A	Rv3178
+30	HPT-2b Induced	N/A	Rv3269
+30	HPT-2b Induced	N/A	Rv3270
+31	ArgR	argR	Rv1652
+31	ArgR	argR	Rv1653
+31	ArgR	argR	Rv1654
+31	ArgR	argR	Rv1655
+31	ArgR	argR	Rv1656
+31	ArgR	argR	Rv1657
+31	ArgR	argR	Rv1658
+31	ArgR	argR	Rv1659
+31	ArgR	argR	Rv2780
+32	Unc_3	N/A	Rv0094c
+32	Unc_3	N/A	Rv0815c
+32	Unc_3	N/A	Rv1038c
+32	Unc_3	N/A	Rv1041c
+32	Unc_3	N/A	Rv1042c
+32	Unc_3	N/A	Rv1047
+32	Unc_3	N/A	Rv1149
+32	Unc_3	N/A	Rv1197
+32	Unc_3	N/A	Rv1313c
+32	Unc_3	N/A	Rv1361c
+32	Unc_3	N/A	Rv1588c
+32	Unc_3	N/A	Rv3115
+32	Unc_3	N/A	Rv3117
+32	Unc_3	N/A	Rv3118
+32	Unc_3	N/A	Rv3467
+32	Unc_3	N/A	Rv3798
+33	SG_4	N/A	Rv1134
+33	SG_4	N/A	Rv2231B
+33	SG_4	N/A	Rv2422
+33	SG_4	N/A	Rv2614A
+33	SG_4	N/A	Rv3022A
+34	MbcA+Rv3249c+Rv3066	mbcA and Rv3249c and Rv3066	Rv3064c
+34	MbcA+Rv3249c+Rv3066	mbcA and Rv3249c and Rv3066	Rv3065
+34	MbcA+Rv3249c+Rv3066	mbcA and Rv3249c and Rv3066	Rv3066
+35	Unc_4	N/A	Rv0061c
+35	Unc_4	N/A	Rv0170
+35	Unc_4	N/A	Rv0682
+35	Unc_4	N/A	Rv0921
+35	Unc_4	N/A	Rv1502
+35	Unc_4	N/A	Rv1662
+35	Unc_4	N/A	Rv1861
+35	Unc_4	N/A	Rv2063
+35	Unc_4	N/A	Rv2352c
+35	Unc_4	N/A	Rv2520c
+35	Unc_4	N/A	Rv2652c
+35	Unc_4	N/A	Rv2805
+35	Unc_4	N/A	Rv2947c
+35	Unc_4	N/A	Rv2975c
+35	Unc_4	N/A	Rv3196A
+35	Unc_4	N/A	Rv3221c
+35	Unc_4	N/A	Rv3664c
+35	Unc_4	N/A	Rv3828c
+35	Unc_4	N/A	Rv3847
+35	Unc_4	N/A	Rv3904c
+35	Unc_4	N/A	Rv3922c
+35	Unc_4	N/A	Rv3923c
+36	Fumarate Reductase	N/A	RV1984a
+36	Fumarate Reductase	N/A	Rv0079
+36	Fumarate Reductase	N/A	Rv0104
+36	Fumarate Reductase	N/A	Rv0146
+36	Fumarate Reductase	N/A	Rv0165c
+36	Fumarate Reductase	N/A	Rv0166
+36	Fumarate Reductase	N/A	Rv0167
+36	Fumarate Reductase	N/A	Rv0168
+36	Fumarate Reductase	N/A	Rv0211
+36	Fumarate Reductase	N/A	Rv0250c
+36	Fumarate Reductase	N/A	Rv0458
+36	Fumarate Reductase	N/A	Rv0459
+36	Fumarate Reductase	N/A	Rv0467
+36	Fumarate Reductase	N/A	Rv0468
+36	Fumarate Reductase	N/A	Rv0655
+36	Fumarate Reductase	N/A	Rv0867c
+36	Fumarate Reductase	N/A	Rv1057
+36	Fumarate Reductase	N/A	Rv1192
+36	Fumarate Reductase	N/A	Rv1194c
+36	Fumarate Reductase	N/A	Rv1550
+36	Fumarate Reductase	N/A	Rv1552
+36	Fumarate Reductase	N/A	Rv1553
+36	Fumarate Reductase	N/A	Rv1592c
+36	Fumarate Reductase	N/A	Rv1778c
+36	Fumarate Reductase	N/A	Rv1779c
+36	Fumarate Reductase	N/A	Rv2428
+36	Fumarate Reductase	N/A	Rv2429
+36	Fumarate Reductase	N/A	Rv2450c
+36	Fumarate Reductase	N/A	Rv2485c
+36	Fumarate Reductase	N/A	Rv2518c
+36	Fumarate Reductase	N/A	Rv2640c
+36	Fumarate Reductase	N/A	Rv2729c
+36	Fumarate Reductase	N/A	Rv3484
+37	Rv3095	Rv3095	Rv3093c
+37	Rv3095	Rv3095	Rv3094c
+37	Rv3095	Rv3095	Rv3095
+38	SG_5	N/A	Rv1134
+38	SG_5	N/A	Rv2283
+38	SG_5	N/A	Rv2653c
+38	SG_5	N/A	Rv3112
+39	SigC	sigC	Rv0096
+39	SigC	sigC	Rv0097
+39	SigC	sigC	Rv0098
+39	SigC	sigC	Rv0099
+39	SigC	sigC	Rv0100
+40	KstR2	kstR2	Rv3548c
+40	KstR2	kstR2	Rv3549c
+40	KstR2	kstR2	Rv3550
+40	KstR2	kstR2	Rv3551
+40	KstR2	kstR2	Rv3552
+40	KstR2	kstR2	Rv3553
+40	KstR2	kstR2	Rv3556c
+40	KstR2	kstR2	Rv3557c
+40	KstR2	kstR2	Rv3559c
+40	KstR2	kstR2	Rv3560c
+40	KstR2	kstR2	Rv3561
+40	KstR2	kstR2	Rv3562
+40	KstR2	kstR2	Rv3563
+40	KstR2	kstR2	Rv3564
+41	Unc_5	N/A	Rv0181c
+41	Unc_5	N/A	Rv0273c
+41	Unc_5	N/A	Rv1711
+41	Unc_5	N/A	Rv1713
+41	Unc_5	N/A	Rv1714
+41	Unc_5	N/A	Rv1715
+41	Unc_5	N/A	Rv1716
+41	Unc_5	N/A	Rv2550c
+41	Unc_5	N/A	Rv2551c
+41	Unc_5	N/A	Rv2552c
+42	Nicotinate Metabolism	N/A	Rv0155
+42	Nicotinate Metabolism	N/A	Rv0156
+42	Nicotinate Metabolism	N/A	Rv0157
+42	Nicotinate Metabolism	N/A	Rv1570
+42	Nicotinate Metabolism	N/A	Rv2463
+42	Nicotinate Metabolism	N/A	Rv2656c
+42	Nicotinate Metabolism	N/A	Rv2866
+42	Nicotinate Metabolism	N/A	Rv3654c
+42	Nicotinate Metabolism	N/A	Rv3745c
+42	Nicotinate Metabolism	N/A	Rv3883c
+43	LysG	lsyG	Rv0081
+43	LysG	lsyG	Rv0082
+43	LysG	lsyG	Rv0083
+43	LysG	lsyG	Rv0084
+43	LysG	lsyG	Rv0085
+43	LysG	lsyG	Rv0086
+43	LysG	lsyG	Rv0087
+44	SG_6	N/A	Rv2490a
+45	SigD	sigD	Rv0064A
+45	SigD	sigD	Rv0124
+45	SigD	sigD	Rv0150c
+45	SigD	sigD	Rv0278c
+45	SigD	sigD	Rv0279c
+45	SigD	sigD	Rv0297
+45	SigD	sigD	Rv0532
+45	SigD	sigD	Rv0578c
+45	SigD	sigD	Rv0581
+45	SigD	sigD	Rv0603
+45	SigD	sigD	Rv0649
+45	SigD	sigD	Rv0746
+45	SigD	sigD	Rv0747
+45	SigD	sigD	Rv0833
+45	SigD	sigD	Rv0834c
+45	SigD	sigD	Rv0872c
+45	SigD	sigD	Rv0980c
+45	SigD	sigD	Rv1067c
+45	SigD	sigD	Rv1087
+45	SigD	sigD	Rv1091
+45	SigD	sigD	Rv1243c
+45	SigD	sigD	Rv1325c
+45	SigD	sigD	Rv1396c
+45	SigD	sigD	Rv1441c
+45	SigD	sigD	Rv1450c
+45	SigD	sigD	Rv1452c
+45	SigD	sigD	Rv1468c
+45	SigD	sigD	Rv1651c
+45	SigD	sigD	Rv1759c
+45	SigD	sigD	Rv1818c
+45	SigD	sigD	Rv1840c
+45	SigD	sigD	Rv2126c
+45	SigD	sigD	Rv2153c
+45	SigD	sigD	Rv2162c
+45	SigD	sigD	Rv2352c
+45	SigD	sigD	Rv2365c
+45	SigD	sigD	Rv2487c
+45	SigD	sigD	Rv2490c
+45	SigD	sigD	Rv2526
+45	SigD	sigD	Rv2541
+45	SigD	sigD	Rv2615c
+45	SigD	sigD	Rv2634c
+45	SigD	sigD	Rv2654c
+45	SigD	sigD	Rv2741
+45	SigD	sigD	Rv2853
+45	SigD	sigD	Rv3344c
+45	SigD	sigD	Rv3345c
+45	SigD	sigD	Rv3388
+45	SigD	sigD	Rv3507
+45	SigD	sigD	Rv3508
+45	SigD	sigD	Rv3511
+45	SigD	sigD	Rv3512
+45	SigD	sigD	Rv3514
+45	SigD	sigD	Rv3590c
+45	SigD	sigD	Rv3653
+46	Rv2621c	Rv2621c	Rv1461
+46	Rv2621c	Rv2621c	Rv1462
+46	Rv2621c	Rv2621c	Rv1463
+46	Rv2621c	Rv2621c	Rv1464
+46	Rv2621c	Rv2621c	Rv1465
+46	Rv2621c	Rv2621c	Rv1466
+47	SG_7	N/A	Rv1119c
+48	Leucine Related	N/A	Rv0839
+48	Leucine Related	N/A	Rv2987c
+48	Leucine Related	N/A	Rv2988c
+48	Leucine Related	N/A	Rv2989
+49	Rv1828/SigH	Rv1828 or sigH	Rv0111
+49	Rv1828/SigH	Rv1828 or sigH	Rv0129c
+49	Rv1828/SigH	Rv1828 or sigH	Rv0344c
+49	Rv1828/SigH	Rv1828 or sigH	Rv0430
+49	Rv1828/SigH	Rv1828 or sigH	Rv0519c
+49	Rv1828/SigH	Rv1828 or sigH	Rv0659c
+49	Rv1828/SigH	Rv1828 or sigH	Rv0660c
+49	Rv1828/SigH	Rv1828 or sigH	Rv0883c
+49	Rv1828/SigH	Rv1828 or sigH	Rv0888
+49	Rv1828/SigH	Rv1828 or sigH	Rv0996
+49	Rv1828/SigH	Rv1828 or sigH	Rv0997
+49	Rv1828/SigH	Rv1828 or sigH	Rv0997a
+49	Rv1828/SigH	Rv1828 or sigH	Rv1157c
+49	Rv1828/SigH	Rv1828 or sigH	Rv1158c
+49	Rv1828/SigH	Rv1828 or sigH	Rv1220c
+49	Rv1828/SigH	Rv1828 or sigH	Rv1251c
+49	Rv1828/SigH	Rv1828 or sigH	Rv1252c
+49	Rv1828/SigH	Rv1828 or sigH	Rv1435c
+49	Rv1828/SigH	Rv1828 or sigH	Rv1632c
+49	Rv1828/SigH	Rv1828 or sigH	Rv1697
+49	Rv1828/SigH	Rv1828 or sigH	Rv1698
+49	Rv1828/SigH	Rv1828 or sigH	Rv1699
+49	Rv1828/SigH	Rv1828 or sigH	Rv2033c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2049c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2074
+49	Rv1828/SigH	Rv1828 or sigH	Rv2147c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2148c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2149c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2150c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2154c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2163c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2164c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2165c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2166c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2256a
+49	Rv1828/SigH	Rv1828 or sigH	Rv2267c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2349c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2350c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2351c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2592c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2593c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2594c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2680
+49	Rv1828/SigH	Rv1828 or sigH	Rv2737c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2748c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2864c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2894c
+49	Rv1828/SigH	Rv1828 or sigH	Rv2905
+49	Rv1828/SigH	Rv1828 or sigH	Rv2927c
+49	Rv1828/SigH	Rv1828 or sigH	Rv3005c
+49	Rv1828/SigH	Rv1828 or sigH	Rv3122
+49	Rv1828/SigH	Rv1828 or sigH	Rv3209
+49	Rv1828/SigH	Rv1828 or sigH	Rv3245c
+49	Rv1828/SigH	Rv1828 or sigH	Rv3246c
+49	Rv1828/SigH	Rv1828 or sigH	Rv3258c
+49	Rv1828/SigH	Rv1828 or sigH	Rv3267
+49	Rv1828/SigH	Rv1828 or sigH	Rv3310
+49	Rv1828/SigH	Rv1828 or sigH	Rv3330
+49	Rv1828/SigH	Rv1828 or sigH	Rv3387
+49	Rv1828/SigH	Rv1828 or sigH	Rv3587c
+49	Rv1828/SigH	Rv1828 or sigH	Rv3711c
+49	Rv1828/SigH	Rv1828 or sigH	Rv3717
+49	Rv1828/SigH	Rv1828 or sigH	Rv3811
+50	Unc_6	N/A	Rv0575c
+50	Unc_6	N/A	Rv1403c
+50	Unc_6	N/A	Rv1405c
+50	Unc_6	N/A	Rv2503c
+50	Unc_6	N/A	Rv2504c
+50	Unc_6	N/A	Rv2590
+50	Unc_6	N/A	Rv3797
+50	Unc_6	N/A	Rv3828c
+50	Unc_6	N/A	Rv3829c
+50	Unc_6	N/A	Rv3830c
+50	Unc_6	N/A	Rv3832c
+51	PhoP	phoP	Rv1180
+51	PhoP	phoP	Rv1181
+51	PhoP	phoP	Rv1184c
+51	PhoP	phoP	Rv1185c
+51	PhoP	phoP	Rv1361c
+51	PhoP	phoP	Rv1638A
+51	PhoP	phoP	Rv2288
+51	PhoP	phoP	Rv2329c
+51	PhoP	phoP	Rv2331
+51	PhoP	phoP	Rv2331A
+51	PhoP	phoP	Rv2395A
+51	PhoP	phoP	Rv2395B
+51	PhoP	phoP	Rv3312A
+51	PhoP	phoP	Rv3312b
+51	PhoP	phoP	Rv3416
+51	PhoP	phoP	Rv3478
+51	PhoP	phoP	Rv3487c
+51	PhoP	phoP	Rv3686c
+51	PhoP	phoP	Rv3706c
+51	PhoP	phoP	Rv3767c
+51	PhoP	phoP	Rv3822
+51	PhoP	phoP	Rv3824c
+51	PhoP	phoP	Rv3825c
+52	DevR-2	devR	Rv0079
+52	DevR-2	devR	Rv0083
+52	DevR-2	devR	Rv0569
+52	DevR-2	devR	Rv0570
+52	DevR-2	devR	Rv0571c
+52	DevR-2	devR	Rv0572c
+52	DevR-2	devR	Rv0573c
+52	DevR-2	devR	Rv0574c
+52	DevR-2	devR	Rv1735a
+52	DevR-2	devR	Rv1735c
+52	DevR-2	devR	Rv1736c
+52	DevR-2	devR	Rv1737c
+52	DevR-2	devR	Rv1738
+52	DevR-2	devR	Rv1812c
+52	DevR-2	devR	Rv1997
+52	DevR-2	devR	Rv2003c
+52	DevR-2	devR	Rv2004c
+52	DevR-2	devR	Rv2005c
+52	DevR-2	devR	Rv2006
+52	DevR-2	devR	Rv2007c
+52	DevR-2	devR	Rv2027c
+52	DevR-2	devR	Rv2028c
+52	DevR-2	devR	Rv2029c
+52	DevR-2	devR	Rv2030c
+52	DevR-2	devR	Rv2623
+52	DevR-2	devR	Rv2624c
+52	DevR-2	devR	Rv2625c
+52	DevR-2	devR	Rv2626c
+52	DevR-2	devR	Rv2627c
+52	DevR-2	devR	Rv2628
+52	DevR-2	devR	Rv2629
+52	DevR-2	devR	Rv2630
+52	DevR-2	devR	Rv2631
+52	DevR-2	devR	Rv3130c
+52	DevR-2	devR	Rv3132c
+52	DevR-2	devR	Rv3133c
+52	DevR-2	devR	Rv3134c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0250c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0251c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0350
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0351
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0352
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0353
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0384c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv0563
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv1072
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv1073
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2051c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2052c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2053c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2693c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2694c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2710
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2742c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2743c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2744c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv2745c
+53	Rv1776c+WhiB4	Rv1776c and whiB4 	Rv3837c
+54	Unc_7	N/A	Rv0074
+54	Unc_7	N/A	Rv0322
+54	Unc_7	N/A	Rv0557
+54	Unc_7	N/A	Rv1187
+54	Unc_7	N/A	Rv1188
+54	Unc_7	N/A	Rv1189
+54	Unc_7	N/A	Rv1787
+54	Unc_7	N/A	Rv2478c
+54	Unc_7	N/A	Rv3026c
+54	Unc_7	N/A	Rv3027c
+54	Unc_7	N/A	Rv3134c
+54	Unc_7	N/A	Rv3327
+54	Unc_7	N/A	Rv3366
+54	Unc_7	N/A	Rv3727
+54	Unc_7	N/A	Rv3750c
+55	WhiB7	whiB7	Rv0263c
+55	WhiB7	whiB7	Rv1257c
+55	WhiB7	whiB7	Rv1258c
+55	WhiB7	whiB7	Rv1988
+55	WhiB7	whiB7	Rv2415c
+55	WhiB7	whiB7	Rv2416c
+55	WhiB7	whiB7	Rv2725c
+55	WhiB7	whiB7	Rv3197A
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv0263c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv0264c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv0410c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv0411c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv0412c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv0516c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv0950c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv1013
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv1057
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv1592c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2243
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2244
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2245
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2246
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2247
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2248
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2524c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2845c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv2846c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv3800c
+56	Fatty Acid Biosynthesis	trcR and Rv1776c and whiB4 	Rv3801c
+57	SG_8	N/A	Rv1116
+57	SG_8	N/A	Rv1717
+57	SG_8	N/A	Rv1735c
+58	Zur	zur	Rv0106
+58	Zur	zur	Rv0280
+58	Zur	zur	Rv0281
+58	Zur	zur	Rv0282
+58	Zur	zur	Rv0283
+58	Zur	zur	Rv0284
+58	Zur	zur	Rv0285
+58	Zur	zur	Rv0286
+58	Zur	zur	Rv0287
+58	Zur	zur	Rv0288
+58	Zur	zur	Rv0289
+58	Zur	zur	Rv0290
+58	Zur	zur	Rv0291
+58	Zur	zur	Rv0292
+58	Zur	zur	Rv2055c
+58	Zur	zur	Rv2056c
+58	Zur	zur	Rv2057c
+58	Zur	zur	Rv2058c
+58	Zur	zur	Rv2059
+58	Zur	zur	Rv2990c
+59	Rv0576	Rv0576	Rv0331
+59	Rv0576	Rv0576	Rv0384c
+59	Rv0576	Rv0576	Rv0587
+59	Rv0576	Rv0576	Rv0654
+59	Rv0576	Rv0576	Rv0762c
+59	Rv0576	Rv0576	Rv0763c
+59	Rv0576	Rv0576	Rv0764c
+59	Rv0576	Rv0576	Rv0765c
+59	Rv0576	Rv0576	Rv0766c
+59	Rv0576	Rv0576	Rv0767c
+59	Rv0576	Rv0576	Rv0768
+59	Rv0576	Rv0576	Rv0769
+59	Rv0576	Rv0576	Rv0770
+59	Rv0576	Rv0576	Rv0771
+59	Rv0576	Rv0576	Rv0790c
+59	Rv0576	Rv0576	Rv0791c
+59	Rv0576	Rv0576	Rv0792c
+59	Rv0576	Rv0576	Rv0793
+59	Rv0576	Rv0576	Rv0836c
+59	Rv0576	Rv0576	Rv0837c
+59	Rv0576	Rv0576	Rv0991c
+59	Rv0576	Rv0576	Rv1048c
+59	Rv0576	Rv0576	Rv1169c
+59	Rv0576	Rv0576	Rv1256c
+59	Rv0576	Rv0576	Rv1286
+59	Rv0576	Rv0576	Rv1386
+59	Rv0576	Rv0576	Rv1585c
+59	Rv0576	Rv0576	Rv1586c
+59	Rv0576	Rv0576	Rv1674c
+59	Rv0576	Rv0576	Rv1895
+59	Rv0576	Rv0576	Rv2012
+59	Rv0576	Rv0576	Rv2016
+59	Rv0576	Rv0576	Rv2025c
+59	Rv0576	Rv0576	Rv2035
+59	Rv0576	Rv0576	Rv2036
+59	Rv0576	Rv0576	Rv2466c
+59	Rv0576	Rv0576	Rv2516c
+59	Rv0576	Rv0576	Rv2619c
+59	Rv0576	Rv0576	Rv2620c
+59	Rv0576	Rv0576	Rv2621c
+59	Rv0576	Rv0576	Rv2622
+59	Rv0576	Rv0576	Rv2662
+59	Rv0576	Rv0576	Rv2780
+59	Rv0576	Rv0576	Rv2912c
+59	Rv0576	Rv0576	Rv2913c
+59	Rv0576	Rv0576	Rv3054c
+59	Rv0576	Rv0576	Rv3167c
+59	Rv0576	Rv0576	Rv3168
+59	Rv0576	Rv0576	Rv3252c
+59	Rv0576	Rv0576	Rv3334
+59	Rv0576	Rv0576	Rv3463
+59	Rv0576	Rv0576	Rv3833
+60	Rv0681	Rv0681	Rv1894c
+60	Rv0681	Rv0681	Rv3513c
+60	Rv0681	Rv0681	Rv3515c
+60	Rv0681	Rv0681	Rv3516
+60	Rv0681	Rv0681	Rv3526
+60	Rv0681	Rv0681	Rv3527
+60	Rv0681	Rv0681	Rv3529c
+60	Rv0681	Rv0681	Rv3530c
+60	Rv0681	Rv0681	Rv3531c
+60	Rv0681	Rv0681	Rv3533c
+60	Rv0681	Rv0681	Rv3534c
+60	Rv0681	Rv0681	Rv3535c
+60	Rv0681	Rv0681	Rv3536c
+60	Rv0681	Rv0681	Rv3537
+60	Rv0681	Rv0681	Rv3538
+60	Rv0681	Rv0681	Rv3541c
+60	Rv0681	Rv0681	Rv3542c
+60	Rv0681	Rv0681	Rv3543c
+60	Rv0681	Rv0681	Rv3545c
+60	Rv0681	Rv0681	Rv3546
+60	Rv0681	Rv0681	Rv3566A
+60	Rv0681	Rv0681	Rv3566c
+60	Rv0681	Rv0681	Rv3567c
+60	Rv0681	Rv0681	Rv3568c
+60	Rv0681	Rv0681	Rv3569c
+60	Rv0681	Rv0681	Rv3570c
+60	Rv0681	Rv0681	Rv3574
+61	Nucleic Acid Hydrolysis 	N/A	Rv2009
+61	Nucleic Acid Hydrolysis 	N/A	Rv2816c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2817c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2818c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2819c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2820c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2821c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2822c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2823c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2824c
+61	Nucleic Acid Hydrolysis 	N/A	Rv2837c
+62	Rv2488c	Rv2488c	Rv0451c
+62	Rv2488c	Rv2488c	Rv0452
+62	Rv2488c	Rv2488c	Rv0676c
+62	Rv2488c	Rv2488c	Rv0677c
+62	Rv2488c	Rv2488c	Rv0678
+62	Rv2488c	Rv2488c	Rv1216c
+62	Rv2488c	Rv2488c	Rv1217c
+62	Rv2488c	Rv2488c	Rv1218c
+62	Rv2488c	Rv2488c	Rv1219c
+62	Rv2488c	Rv2488c	Rv3159c
+62	Rv2488c	Rv2488c	Rv3160c
+62	Rv2488c	Rv2488c	Rv3161c
+63	SG_9	N/A	Rv0601c
+63	SG_9	N/A	Rv1051c
+63	SG_9	N/A	Rv1228a
+63	SG_9	N/A	Rv1805c
+63	SG_9	N/A	Rv2451
+63	SG_9	N/A	Rv2654c
+63	SG_9	N/A	Rv2660c
+63	SG_9	N/A	Rv2661c
+63	SG_9	N/A	Rv2706c
+64	Mce1R	mce1R	Rv0168
+64	Mce1R	mce1R	Rv0169
+64	Mce1R	mce1R	Rv0170
+64	Mce1R	mce1R	Rv0171
+64	Mce1R	mce1R	Rv0172
+64	Mce1R	mce1R	Rv0173
+64	Mce1R	mce1R	Rv3146
+64	Mce1R	mce1R	Rv3147
+64	Mce1R	mce1R	Rv3148
+64	Mce1R	mce1R	Rv3149
+64	Mce1R	mce1R	Rv3150
+64	Mce1R	mce1R	Rv3151
+64	Mce1R	mce1R	Rv3152
+64	Mce1R	mce1R	Rv3154
+64	Mce1R	mce1R	Rv3156
+65	SG_10	N/A	Rv0841
+66	M-box	N/A	Rv0115a
+66	M-box	N/A	Rv1535
+66	M-box	N/A	Rv1536
+66	M-box	N/A	Rv1806
+66	M-box	N/A	Rv1808
+66	M-box	N/A	Rv1809
+67	Peptidoglycan Biosynthesis	N/A	Rv0527
+67	Peptidoglycan Biosynthesis	N/A	Rv1605
+67	Peptidoglycan Biosynthesis	N/A	Rv2152c
+67	Peptidoglycan Biosynthesis	N/A	Rv2364c
+67	Peptidoglycan Biosynthesis	N/A	Rv2365c
+67	Peptidoglycan Biosynthesis	N/A	Rv2552c
+67	Peptidoglycan Biosynthesis	N/A	Rv3422c
+67	Peptidoglycan Biosynthesis	N/A	Rv3756c
+68	Sulfur Metabolism	N/A	Rv0485
+68	Sulfur Metabolism	N/A	Rv0815c
+68	Sulfur Metabolism	N/A	Rv1065
+68	Sulfur Metabolism	N/A	Rv1066
+68	Sulfur Metabolism	N/A	Rv1790
+68	Sulfur Metabolism	N/A	Rv2386a
+68	Sulfur Metabolism	N/A	Rv2397c
+68	Sulfur Metabolism	N/A	Rv2398c
+68	Sulfur Metabolism	N/A	Rv2399c
+68	Sulfur Metabolism	N/A	Rv2400c
+69	Rv0135+Rv1019	Rv0135c and Rv1019	Rv3229c
+69	Rv0135+Rv1019	Rv0135c and Rv1019	Rv3230c
+70	Lsr2	lsr2	Rv0032
+70	Lsr2	lsr2	Rv0112
+70	Lsr2	lsr2	Rv0113
+70	Lsr2	lsr2	Rv0404
+70	Lsr2	lsr2	Rv0405
+70	Lsr2	lsr2	Rv0451c
+70	Lsr2	lsr2	Rv0455c
+70	Lsr2	lsr2	Rv0469
+70	Lsr2	lsr2	Rv0986
+70	Lsr2	lsr2	Rv0987
+70	Lsr2	lsr2	Rv0988
+70	Lsr2	lsr2	Rv1500
+70	Lsr2	lsr2	Rv1501
+70	Lsr2	lsr2	Rv1502
+70	Lsr2	lsr2	Rv1505c
+70	Lsr2	lsr2	Rv1506c
+70	Lsr2	lsr2	Rv1507A
+70	Lsr2	lsr2	Rv1507c
+70	Lsr2	lsr2	Rv1574
+70	Lsr2	lsr2	Rv1948c
+70	Lsr2	lsr2	Rv2022c
+70	Lsr2	lsr2	Rv2107
+70	Lsr2	lsr2	Rv2108
+70	Lsr2	lsr2	Rv2307B
+70	Lsr2	lsr2	Rv2336
+70	Lsr2	lsr2	Rv2338c
+70	Lsr2	lsr2	Rv2491
+70	Lsr2	lsr2	Rv2492
+70	Lsr2	lsr2	Rv2808
+70	Lsr2	lsr2	Rv2928
+70	Lsr2	lsr2	Rv2929
+70	Lsr2	lsr2	Rv2949c
+70	Lsr2	lsr2	Rv2956
+70	Lsr2	lsr2	Rv2959c
+70	Lsr2	lsr2	Rv3109
+70	Lsr2	lsr2	Rv3114
+70	Lsr2	lsr2	Rv3260c
+70	Lsr2	lsr2	Rv3377c
+70	Lsr2	lsr2	Rv3378c
+70	Lsr2	lsr2	Rv3424c
+70	Lsr2	lsr2	Rv3425
+70	Lsr2	lsr2	Rv3426
+70	Lsr2	lsr2	Rv3429
+70	Lsr2	lsr2	Rv3473c
+70	Lsr2	lsr2	Rv3528c
+70	Lsr2	lsr2	Rv3902c
+71	PDIM;PGL Synthesis	N/A	Rv0699
+71	PDIM;PGL Synthesis	N/A	Rv1169c
+71	PDIM;PGL Synthesis	N/A	Rv2947c
+71	PDIM;PGL Synthesis	N/A	Rv2948c
+71	PDIM;PGL Synthesis	N/A	Rv2958c
+71	PDIM;PGL Synthesis	N/A	Rv2959c
+71	PDIM;PGL Synthesis	N/A	Rv2960c
+71	PDIM;PGL Synthesis	N/A	Rv3135
+71	PDIM;PGL Synthesis	N/A	Rv3136
+71	PDIM;PGL Synthesis	N/A	Rv3137
+72	Unc_8	N/A	Rv0344c
+72	Unc_8	N/A	Rv0583c
+72	Unc_8	N/A	Rv0603
+72	Unc_8	N/A	Rv1027c
+72	Unc_8	N/A	Rv1580c
+72	Unc_8	N/A	Rv1638A
+72	Unc_8	N/A	Rv1684
+72	Unc_8	N/A	Rv1786
+72	Unc_8	N/A	Rv1788
+72	Unc_8	N/A	Rv3192
+72	Unc_8	N/A	Rv3242c
+73	SG_11	N/A	Rv0979c
+73	SG_11	N/A	Rv1028A
+73	SG_11	N/A	Rv1088
+73	SG_11	N/A	Rv1228a
+73	SG_11	N/A	Rv1669
+73	SG_11	N/A	Rv1735a
+73	SG_11	N/A	Rv1805c
+73	SG_11	N/A	Rv3312b
+73	SG_11	N/A	Rv3471c
+74	SG_12	N/A	Rv0378
+74	SG_12	N/A	Rv1116
+74	SG_12	N/A	Rv1954c
+75	Unc_9	N/A	Rv0150c
+75	Unc_9	N/A	Rv0416
+75	Unc_9	N/A	Rv0514
+75	Unc_9	N/A	Rv0566c
+75	Unc_9	N/A	Rv0944
+75	Unc_9	N/A	Rv1042c
+75	Unc_9	N/A	Rv1554
+75	Unc_9	N/A	Rv1745c
+75	Unc_9	N/A	Rv1913
+75	Unc_9	N/A	Rv1946c
+75	Unc_9	N/A	Rv1953
+75	Unc_9	N/A	Rv2219A
+75	Unc_9	N/A	Rv2231c
+75	Unc_9	N/A	Rv2308a
+75	Unc_9	N/A	Rv2331
+75	Unc_9	N/A	Rv2816c
+75	Unc_9	N/A	Rv2863
+75	Unc_9	N/A	Rv2922A
+75	Unc_9	N/A	Rv3143
+75	Unc_9	N/A	Rv3192
+75	Unc_9	N/A	Rv3355c
+75	Unc_9	N/A	Rv3566A
+75	Unc_9	N/A	Rv3819
+75	Unc_9	N/A	Rv3836
+76	SG_13	N/A	Rv0105c
+76	SG_13	N/A	Rv1499
+76	SG_13	N/A	Rv1554
+76	SG_13	N/A	Rv2310
+76	SG_13	N/A	Rv3108
+77	Central Carbon Metabolism	N/A	Rv0009
+77	Central Carbon Metabolism	N/A	Rv0199
+77	Central Carbon Metabolism	N/A	Rv0379
+77	Central Carbon Metabolism	N/A	Rv0462
+77	Central Carbon Metabolism	N/A	Rv0613c
+77	Central Carbon Metabolism	N/A	Rv0896
+77	Central Carbon Metabolism	N/A	Rv1232c
+77	Central Carbon Metabolism	N/A	Rv1233c
+77	Central Carbon Metabolism	N/A	Rv1240
+77	Central Carbon Metabolism	N/A	Rv1305
+77	Central Carbon Metabolism	N/A	Rv1400c
+77	Central Carbon Metabolism	N/A	Rv1436
+77	Central Carbon Metabolism	N/A	Rv1437
+77	Central Carbon Metabolism	N/A	Rv1665
+77	Central Carbon Metabolism	N/A	Rv1919c
+77	Central Carbon Metabolism	N/A	Rv1932
+77	Central Carbon Metabolism	N/A	Rv2054
+77	Central Carbon Metabolism	N/A	Rv2058c
+77	Central Carbon Metabolism	N/A	Rv2104a
+77	Central Carbon Metabolism	N/A	Rv2193
+77	Central Carbon Metabolism	N/A	Rv2288
+77	Central Carbon Metabolism	N/A	Rv2376c
+77	Central Carbon Metabolism	N/A	Rv2468A
+77	Central Carbon Metabolism	N/A	Rv2863
+77	Central Carbon Metabolism	N/A	Rv3224
+77	Central Carbon Metabolism	N/A	Rv3678A
+77	Central Carbon Metabolism	N/A	Rv3747
+77	Central Carbon Metabolism	N/A	Rv3774
+78	Positive Regulation of Growth	N/A	Rv0298
+78	Positive Regulation of Growth	N/A	Rv0596c
+78	Positive Regulation of Growth	N/A	Rv0599c
+78	Positive Regulation of Growth	N/A	Rv0608
+78	Positive Regulation of Growth	N/A	Rv0616A
+78	Positive Regulation of Growth	N/A	Rv0623
+78	Positive Regulation of Growth	N/A	Rv0827c
+78	Positive Regulation of Growth	N/A	Rv0959A
+78	Positive Regulation of Growth	N/A	Rv1593c
+78	Positive Regulation of Growth	N/A	Rv1721c
+78	Positive Regulation of Growth	N/A	Rv1839c
+78	Positive Regulation of Growth	N/A	Rv1960c
+78	Positive Regulation of Growth	N/A	Rv1982A
+78	Positive Regulation of Growth	N/A	Rv2009
+78	Positive Regulation of Growth	N/A	Rv2063
+78	Positive Regulation of Growth	N/A	Rv2104c
+78	Positive Regulation of Growth	N/A	Rv2526
+78	Positive Regulation of Growth	N/A	Rv2550c
+78	Positive Regulation of Growth	N/A	Rv2595
+78	Positive Regulation of Growth	N/A	Rv2601A
+78	Positive Regulation of Growth	N/A	Rv2830c
+78	Positive Regulation of Growth	N/A	Rv3173c
+78	Positive Regulation of Growth	N/A	Rv3181c
+78	Positive Regulation of Growth	N/A	Rv3407
+78	Positive Regulation of Growth	N/A	Rv3697A
+78	Positive Regulation of Growth	N/A	Rv3841
+79	WhiB4/IdeR	whiB4 or ideR	Rv0140
+79	WhiB4/IdeR	whiB4 or ideR	Rv0142
+79	WhiB4/IdeR	whiB4 or ideR	Rv0816c
+79	WhiB4/IdeR	whiB4 or ideR	Rv1471
+79	WhiB4/IdeR	whiB4 or ideR	Rv1528c
+79	WhiB4/IdeR	whiB4 or ideR	Rv1673c
+79	WhiB4/IdeR	whiB4 or ideR	Rv1909c
+79	WhiB4/IdeR	whiB4 or ideR	Rv2123
+79	WhiB4/IdeR	whiB4 or ideR	Rv2398c
+79	WhiB4/IdeR	whiB4 or ideR	Rv2399c
+79	WhiB4/IdeR	whiB4 or ideR	Rv2466c
+79	WhiB4/IdeR	whiB4 or ideR	Rv3054c
+79	WhiB4/IdeR	whiB4 or ideR	Rv3463
+79	WhiB4/IdeR	whiB4 or ideR	Rv3839
+79	WhiB4/IdeR	whiB4 or ideR	Rv3840
+79	WhiB4/IdeR	whiB4 or ideR	Rv3862c

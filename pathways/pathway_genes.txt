@@ -1,0 +1,277 @@
+Pathways	Genes of pathway
+1-tuberculosinyladenosine biosynthesis	Rv3377c // Rv3378c
+2'-deoxy-&alpha;-D-ribose 1-phosphate degradation	deoC // hsaG
+2-carboxy-1,4-naphthoquinol biosynthesis	menE // menC // entC // mbtI // menD // menB
+2-methylcitrate cycle I	fadD36 // fadD34 // fadD7 // fadD5 // fadD4 // fadD2 // fadD8 // fadD16 // fadD6 // fadD12 // fadD11.1 // fadD11 // fadD1 // fadD31 // fadD15 // fadD35 // fadD9 // fadD13 // fadD17 // fadD18 // prpC // prpD
+2-oxoglutarate decarboxylation to succinyl-CoA	lpdC
+2-oxoisovalerate decarboxylation to isobutanoyl-CoA	bkdA // bkdB // bkdC // lpdC
+3-dehydroquinate biosynthesis I	aroB // aroG
+4-aminobenzoate biosynthesis	pabB
+4-aminobutanoate degradation II	gabT // gabD2 // gabD1
+4-aminobutanoate degradation III	gabT
+4-hydroxybenzoate biosynthesis II (bacteria)	Rv2949c
+5,6-dimethylbenzimidazole biosynthesis I (aerobic)	ribF
+5-aminoimidazole ribonucleotide biosynthesis I	purF // purD // purN // purL // purQ // purM
+5-aminoimidazole ribonucleotide biosynthesis II	purF // purD // purL // purQ // purM // purT
+5-oxo-L-proline metabolism	pcp // oplA
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	folK // folB // folE // Rv2230c
+8-oxo-(d)GTP detoxification II	mutT1 // Rv1700
+acetate and ATP formation from acetyl-CoA I	ackA // pta
+acetate conversion to acetyl-CoA	acs
+acyl carrier protein activation	acpS // pptT
+acyl-CoA hydrolysis	tesB2 // tesB1
+adenine and adenosine salvage I	deoD // apt
+adenine and adenosine salvage II	apt // iunH
+adenine and adenosine salvage III	deoD // add // hpt
+adenine and adenosine salvage VI	adoK
+adenosine deoxyribonucleotides <i>de novo</i> biosynthesis I	nrdF2 // nrdF1 // nrdZ // ndkA
+adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II	nrdF2 // nrdF1 // nrdZ // ndkA
+adenosine ribonucleotides <i>de novo</i> biosynthesis	purA // purB // adk
+adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I	cobS // cobC // cobT
+adenosylcobalamin biosynthesis II (aerobic)	cobS // cobC // cobT // cobG // cobI // cobM // cobK // cobH // cobB // cobN // cysG // hemD // cobL // hemC // hemB // hemL // hemA // gltS // ribF // cobQ1 // cobU // cobD // cobO // Rv1314c // gluU // gluT
+adenosylcobalamin salvage from cobalamin	cobO // Rv1314c
+adenosylcobinamide-GDP biosynthesis from cobyrinate <i>a,c</i>-diamide	cobQ1 // cobU // cobD // cobO // Rv1314c
+adenosylcobinamide-GDP salvage from cobinamide I	cobU // Rv1314c
+androstenedione degradation	kshA // kshB // kstD // hsaA // hsaC // hsaD // hsaF // hsaE // hsaG // fadD3 // fadE30 // ipdC // ipdF // echA20 // ipdA // ipdB // fadA6 // fadE32 // echA14 // echA17 // echA18 // echA1 // echA6 // echA8 // echA9 // Rv1136 // echA12 // fadB3 // fadA2 // fadA3
+assimilatory sulfate reduction I	cysH // cysD // cysN
+&beta;-alanine biosynthesis III	panD
+&beta;-D-mannosyl phosphomycoketide biosynthesis	pks12
+&beta;-dihydromenaquinone-9 biosynthesis	menJ
+biotin biosynthesis from 8-amino-7-oxononanoate I	bioD // bioA // bsaP // bioB // cysO
+biotin-carboxyl carrier protein assembly	birA // accA1 // accD3 // accA2 // accE5 // accD1 // accA3 // accD6
+CDP-diacylglycerol biosynthesis I	cdsA // Rv2182c // plsB2 // gpdA2 // gpdA1
+CDP-diacylglycerol biosynthesis II	cdsA // gpdA2 // gpdA1 // Rv2182c // plsB2
+cholesterol degradation to androstenedione I (cholesterol oxidase)	fadD19 // fadE26 // fadE27 // echA19 // fadB3 // fadE34 // fadA3 // fadA2 // fadA5 // Rv1106c // choD // fadE28 // fadE29 // Rv3541c // Rv3542c // ltp2 // kshB // cyp125
+cholesterol degradation to androstenedione II (cholesterol dehydrogenase)	choD // Rv1106c // fadE26 // fadE27 // echA19 // fadB3 // fadE34 // fadA3 // fadA2 // fadA5 // fadE28 // fadE29 // Rv3541c // Rv3542c // ltp2 // kshB // cyp125 // fadD19 // mcr // cyp142
+chorismate biosynthesis from 3-dehydroquinate	aroF // aroA // aroK // aroE // aroD
+chorismate biosynthesis I	aroB // aroG // aroF // aroA // aroK // aroE // aroD
+CMP phosphorylation	cmk // ndkA
+cob(II)yrinate <i>a,c</i>-diamide biosynthesis II (late cobalt incorporation)	cobG // cobI // cobM // cobK // cobH // cobB // cobN // cysG // hemD // cobL
+cyclopropane fatty acid (CFA) biosynthesis	cmaA1 // ufaA1 // mmaA2
+D-galactose degradation I (Leloir pathway)	galK // galTa // galTb // cpsY // galE2 // galE1 // pgmA
+D-mannose degradation	manA
+D-xylose degradation I	xylB
+demethylmenaquinol-9 biosynthesis	menA
+dimycocerosyl phthiocerol biosynthesis	papA5 // mas // fadD28
+dimycocerosyl triglycosyl phenolphthiocerol biosynthesis	papA5 // Rv2962c // Rv2959c // Rv2958c // Rv2957 // Rv2956 // Rv2955c // Rv2954c // mas // fadD28
+dTDP-L-rhamnose biosynthesis	rmlC // rmlD // rmlA // Rv3784 // Rv3468c // rmlB
+ergothioneine biosynthesis I (bacteria)	egtC // egtB // egtD // gshA // Rv0433 // egtE
+ethanol degradation I	adhA // adhD // hsaG
+ethanol degradation II	adhA // adhD // Rv0458 // acs
+ethionamide activation	ethA2 // ethA // mymA
+factor 420 biosynthesis	fbiD // fbiA // fbiC // fbiB
+factor 420 polyglutamylation	fbiB
+fatty acid &beta;-oxidation I	fadB3 // fadA3 // fadA // fadA2 // fadB // fadD18 // fadD17 // fadD13 // fadD9 // fadD35 // fadD15 // fadD31 // fadD1 // fadD11 // fadD11.1 // fadD12 // fadD6 // fadD16 // fadD8 // fadD2 // fadD4 // fadD5 // fadD7 // fadD34 // fadD36 // fadE35 // fadE36 // fadE33 // fadE31 // fadE25 // fadE23 // fadE24 // fadE22 // fadE21 // fadE20 // fadE19 // fadE17 // fadE18 // fadE16 // fadE15 // fadE13 // fadE12 // fadE10 // fadE9 // fadE8 // fadE7 // fadE6 // fadE4 // fadE3 // fadE2 // fadE1 // fadE5 // echA2 // echA12 // echA21 // echA13 // echA6 // Rv1136 // echA4 // echA17 // echA15 // echA1 // echA7 // echA5 // echA3 // echA8 // echA14 // echA18 // echA16 // echA18.1 // echA9
+fatty acid biosynthesis initiation (type I)	accD1 // accD2 // accD3 // accA2 // accE5 // fas
+fatty acid biosynthesis initiation I	fabD2 // fabD // accD3 // accA2 // accE5 // accD1 // accA3 // accD6
+fatty acid elongation -- saturated	htdX // htdY // htdZ // fabG2 // fabG4
+flavin biosynthesis I (bacteria and plants)	ribF // ribC // ribH // ribA2 // ribG // ribA1
+folate polyglutamylation	folC // glyA1 // glyA2
+formaldehyde oxidation III (mycothiol-dependent)	mscR
+formaldehyde oxidation VII (THF pathway)	folD // purU
+formate assimilation into 5,10-methylenetetrahydrofolate	folD
+GDP-mannose biosynthesis	manA // pmmB // pmmA // manB // pgi
+geranylgeranyl diphosphate biosynthesis	idsB // grcC1
+gluconeogenesis I	glpX // cysQ // gpm2 // fba // gap // pgk // gpmA // eno // tpi // mez // mdh // pgi
+glucosylglycerate biosynthesis I	gpgP // gpgS
+glutaminyl-tRNA<sup>gln</sup> biosynthesis via transamidation	gltB // pyrG // guaA // snoP // hisF // gltD // asnB // pabB // trpE // trpG // carB // carA // gatC // gatA // gatB // glnU // glnT
+glutathione biosynthesis	gshA // Rv0433
+glutathione-glutaredoxin redox reactions	Rv3198A
+glycerol and glycerophosphodiester degradation	glpK // glpQ1 // glpQ2 // Rv2277c // glpD2 // glpD1
+glycerol degradation I	glpK // glpD2 // glpD1
+glycerophosphodiester degradation	glpQ1 // glpQ2 // Rv2277c // glpD2 // glpD1
+glycine biosynthesis I	glyA1 // glyA2
+glycine cleavage	gcvB // gcvT // lpdC
+glycogen biosynthesis III (from &alpha;-maltose 1-phosphate)	pgmA // glgA // glgE // mak // treS // otsB2 // otsA // glgB
+glycolysis I (from glucose 6-phosphate)	pykA // eno // pgk // gap // tpi // fba // pfkB // pfkA // glpX // cysQ // gpm2 // Rv3837c // gpmA // pgi
+glyoxylate cycle	glcB // aceAb // aceAa // icl1 // citA // gltA2 // acn // mez // mdh
+guanine and guanosine salvage	hpt // deoD
+guanine and guanosine salvage II	hpt // iunH
+guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I	nrdF2 // nrdF1 // nrdZ // ndkA
+guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II	nrdF2 // nrdF1 // nrdZ // ndkA
+guanosine ribonucleotides <i>de novo</i> biosynthesis	guaB2 // guaB3 // guaB1 // guaA // gmk // ndkA
+guanylyl molybdenum cofactor biosynthesis	mobA
+heme <i>b</i> biosynthesis I (aerobic)	hemE // hemY // che1 // hemZ
+heme <i>b</i> biosynthesis II (anaerobic)	che1 // hemZ // hemE // hemN
+heme degradation VII	mhuD
+inosine 5'-phosphate degradation	guaB2 // guaB3 // guaB1 // deoD
+isoniazid activation	katG
+L-alanine biosynthesis I	ilvE
+L-alanine biosynthesis III	iscS // csd
+L-alanine degradation IV	ald
+L-arginine biosynthesis I (via L-ornithine)	argG // argH // argF // carB // carA // argA // argB // argC // argD
+L-arginine biosynthesis II (acetyl cycle)	argG // argH // argF // argD // argC // argB // argJ // carB // carA // argA
+L-arginine degradation V (arginine deiminase pathway)	argF // carB // carA // arcA
+L-asparagine biosynthesis I	asnB
+L-asparagine biosynthesis II	asnB
+L-asparagine biosynthesis III (tRNA-dependent)	aspS // gltB // pyrG // guaA // snoP // hisF // gltD // asnB // pabB // trpE // trpG // carB // carA // gatC // gatA // gatB // asnT
+L-asparagine degradation I	ansA
+L-aspartate biosynthesis	aspB // aspC
+L-aspartate degradation I	aspB // aspC
+L-citrulline degradation	argF // carB // carA
+L-cysteine biosynthesis I	cysE // cysK1
+L-cysteine biosynthesis V (mycobacteria)	cysM // moeB1 // mec // cysO
+L-cysteine biosynthesis VI (from L-methionine)	mtn // metK // cbs // metB
+L-glutamate degradation I	gdh
+L-glutamate degradation IX (via 4-aminobutanoate)	gadB
+L-glutamine biosynthesis I	glnA4 // glnA2 // glnA1 // glnA3
+L-glutamine degradation I	gltB // pyrG // guaA // snoP // hisF // gltD // gatC // gatA // gatB // asnB // pabB // trpE // trpG // carB // carA
+L-histidine biosynthesis	hisD // hisN // hisC2 // hisC1 // hisB // hisF // hisA // hisE // hisI // hisG
+L-homocysteine biosynthesis	metC // metX
+L-homoserine biosynthesis	ask // asd // thrA
+L-isoleucine biosynthesis I (from threonine)	ilvD // ilvE // ilvC // ilvX // ilvB2 // ilvB1 // ilvN // ilvG // ilvA // sdaA
+L-isoleucine degradation I	ilvE // echA9 // fadA4 // Rv1135A
+L-leucine biosynthesis	leuB // ilvE // leuA // leuC // leuD
+L-lysine biosynthesis I	dapF // lysA // dapE // dapC // dapD // dapA // asd // ask // dapB
+L-malate degradation II	mez
+L-methionine biosynthesis III	metE // metC // metX // metH
+L-methionine degradation I (to L-homocysteine)	metK // sahH
+L-ornithine biosynthesis I	argA // argB // argC // argD
+L-phenylalanine biosynthesis I	pheA // Rv1885c // Rv0948c // mbtI // aspB // aspC
+L-proline biosynthesis I	proC // proA // proB
+L-proline biosynthesis III	rocD2 // rocD1 // proC
+L-serine biosynthesis I	serC // serA1 // serA2 // serB2 // serB1
+L-serine degradation	sdaA
+L-threonine biosynthesis	thrB // thrC
+L-tryptophan biosynthesis	trpC // trpD // trpE // trpG // trpA // trpB
+L-tyrosine biosynthesis I	tyrA // Rv1885c // Rv0948c
+L-valine biosynthesis	ilvD // ilvE // ilvC // ilvX // ilvB2 // ilvB1 // ilvN // ilvG
+L-valine degradation I	ilvE // echA14 // echA17 // echA18 // echA1 // echA6 // echA8 // echA9 // Rv1136 // echA12 // mmsB // bkdA // bkdB // bkdC // lpdC // mmsA
+lipoprotein posttranslational modification	lgt // lspA
+mannosylglucosylglycerate biosynthesis I	gpgP // gpgS
+menaquinol-9 biosynthesis	menH
+molybdopterin biosynthesis	moaA1 // moaA2 // moaE2 // moaD2 // moaE1 // moeB2 // moaC1 // moaC2 // moaC3
+mono-<i>trans</i>, poly-<i>cis</i> decaprenyl phosphate biosynthesis	Rv2361c // Rv1086 // idsA2 // grcC2 // idi // Rv2136c
+mycobacterial sulfolipid biosynthesis	Rv0295c // papA2 // Rv3822 // papA1 // fadD28 // pks2 // fadD23
+mycocyclosin biosynthesis	cyp121 // Rv2275 // tyrT
+mycofactocin biosynthesis	mftD // mftE // mftC // mftB // mftF
+mycolate biosynthesis	fas // echA11 // echA10 // kasB // hadC // pcaA // cmaA1 // ufaA1 // mmaA2 // mmaA1 // cmaA2 // fadD32 // accD1 // accD2 // accD4 // accD5 // Rv2509 // Rv3802c // lpqX // otsB2 // otsB1 // Rv3400 // mmpL3 // fbpC // fbpA // fbpB // Rv0161 // mmaA3 // mmaA4 // fabH // kasA // fabG4 // fabG2 // fabG1 // hadB // hadA // inhA // htdZ // htdY // htdX // pks13
+mycolyl-arabinogalactan-peptidoglycan complex biosynthesis	wecA // wbbL1 // glf // cpsY // galE2 // galE1 // glfT1 // glfT2 // fbpC // fbpA // fbpB // aftB // aftA // embB // embA // aftC
+mycothiol biosynthesis	mshB // mshC // mshD // mshA // ino1
+mycothiol oxidation	mtr
+mycothiol-mediated detoxification	mca
+<i>myo</i>-inositol biosynthesis	ino1 // suhB // impA
+<i>N</i>-acetylglucosamine degradation I	nagA
+<i>N</i><sup>10</sup>-formyl-tetrahydrofolate biosynthesis	dfrA // metH // gcvB // gcvT // lpdC // folD // glyA1 // glyA2 // thyA
+N<sup>6</sup>-L-threonylcarbamoyladenosine<sup>37</sup>-modified tRNA biosynthesis	tsaE // Rv1301
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	nadD // nadE // nadC
+NAD <i>de novo</i> biosynthesis I (from aspartate)	nadD // nadE // nadC // nadA // nadB
+NAD phosphorylation and dephosphorylation	ppnK // pntB // pntAb // pntAa
+NAD phosphorylation and transhydrogenation	ppnK // pntB // pntAb // pntAa
+NAD salvage pathway I (PNC VI cycle)	nadD // nudC // pncB1 // pncB2 // nadE // pncA
+NAD salvage pathway III (to nicotinamide riboside)	nudC
+NADH repair	nnr
+nitrobenzene degradation I	hab
+octane oxidation	Rv0458 // fadD36 // fadD34 // fadD7 // fadD5 // fadD4 // fadD2 // fadD8 // fadD16 // fadD6 // fadD12 // fadD11.1 // fadD11 // fadD1 // fadD31 // fadD15 // fadD35 // fadD9 // fadD13 // fadD17 // fadD18 // alkB // rubB
+oleate &beta;-oxidation	tesB2 // tesB1 // fadD36 // fadD34 // fadD7 // fadD5 // fadD4 // fadD2 // fadD8 // fadD16 // fadD6 // fadD12 // fadD11.1 // fadD11 // fadD1 // fadD31 // fadD15 // fadD35 // fadD9 // fadD13 // fadD17 // fadD18 // fadA2 // fadA // fadA3 // fadE5 // fadE1 // fadE2 // fadE3 // fadE4 // fadE6 // fadE7 // fadE8 // fadE9 // fadE10 // fadE12 // fadE13 // fadE15 // fadE16 // fadE18 // fadE17 // fadE19 // fadE20 // fadE21 // fadE22 // fadE24 // fadE23 // fadE25 // fadE31 // fadE33 // fadE36 // fadE35 // echA9 // echA18.1 // echA16 // echA18 // echA14 // echA8 // echA3 // echA5 // echA7 // echA1 // echA15 // echA17 // echA4 // Rv1136 // echA6 // echA13 // echA21 // echA12 // echA2 // fadB3 // fadA4 // Rv1135A
+&omega;-sulfo-II-dihydromenaquinone-9 biosynthesis	Rv2267c // cyp128
+oxidized GTP and dGTP detoxification	mutT2 // mutT3
+p-HBAD biosynthesis	Rv2954c // Rv2955c // Rv2956 // Rv2957 // Rv2959c // Rv2962c // Rv2958c // Rv2949c
+palmitate biosynthesis (type I fatty acid synthase)	htdZ // htdY // htdX
+palmitate biosynthesis II (bacteria and plants)	kasA // fabG4 // fabG2 // fabG1 // hadB // hadA // inhA // htdZ // htdY // htdX // fadD36 // fadD34 // fadD7 // fadD5 // fadD4 // fadD2 // fadD8 // fadD16 // fadD6 // fadD12 // fadD11.1 // fadD11 // fadD1 // fadD31 // fadD15 // fadD35 // fadD9 // fadD13 // fadD17 // fadD18
+palmitoleate biosynthesis II (plants and bacteria)	desA1 // desA2
+paraoxon degradation	php
+parathion degradation	php
+pentose phosphate pathway	tal // tkt // rpe // rpiB // devB // gnd1 // gnd2 // zwf2 // zwf1
+pentose phosphate pathway (non-oxidative branch)	tal // tkt // rpe // rpiB
+pentose phosphate pathway (oxidative branch) I	devB // gnd1 // gnd2 // zwf2 // zwf1
+phenolphthiocerol biosynthesis	ppsD // ppsC // ppsB // ppsA // Rv2949c // Rv2951c // ppsE // tesA // Rv2953 // Rv2952 // fadD22 // fadD29
+phosphate acquisition	sapM // gpm2 // Rv2135c // Rv2577
+phosphatidylethanolamine biosynthesis I	pssA // psd
+phosphatidylglycerol biosynthesis I (plastidic)	cdsA // gpdA2 // gpdA1 // Rv2182c // plsB2 // pgsA3 // pgsA2
+phosphatidylglycerol biosynthesis II (non-plastidic)	cdsA // Rv2182c // plsB2 // gpdA2 // gpdA1 // pgsA3 // pgsA2
+phosphatidylinositol biosynthesis I (bacteria)	ino1 // pgsA1 // ptpB
+phosphatidylinositol mannoside biosynthesis	pimA // patA // pimB // pimE // ppm1
+phospholipases	Rv3091 // plcD // plcC // plcA // plcB
+phosphopantothenate biosynthesis I	panC // Rv2573 // panB // coaA // coaX
+phthiocerol biosynthesis	fadD28 // ppsE // ppsD // ppsC // ppsB // ppsA // Rv2953 // Rv2951c // Rv2952 // tesA // fadD26
+polyacyltrehalose biosynthesis	Rv1184c // papA3 // pks3
+ppGpp biosynthesis	gpsI // relA // ndkA
+propanoyl CoA degradation I	mutB // mutA // accD1 // accA1 // accD2 // accA2 // accE5
+protein Pupylation and dePupylation	pafA // dop
+protocatechuate degradation II (ortho-cleavage pathway)	Rv0771
+PRPP biosynthesis	prsA
+purine deoxyribonucleosides degradation I	deoD // add
+purine ribonucleosides degradation	add // deoD
+pyridoxal 5'-phosphate biosynthesis I	pdxH // Rv2074 // Rv1155 // dxs1 // serC
+pyridoxal 5'-phosphate biosynthesis II	snoP
+pyrimidine deoxyribonucleosides degradation	Rv3752c // cdd // deoA
+pyrimidine deoxyribonucleosides salvage	Rv3752c // cdd // thyA
+pyrimidine deoxyribonucleotide phosphorylation	tmk // cmk // ndkA
+pyrimidine deoxyribonucleotides biosynthesis from CTP	tmk // ndkA // nrdE // nrdZ // nrdF1 // nrdF2 // Rv3752c // thyA
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	mazG // dut // tmk // ndkA // nrdE // nrdZ // nrdF1 // nrdF2 // thyA
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	dcd // mazG // dut // tmk // ndkA // thyA
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III	thyX // tmk // mazG // dut // ndkA // nrdE // nrdZ // nrdF1 // nrdF2
+pyrimidine deoxyribonucleotides dephosphorylation	mazG // dut
+pyrimidine nucleobases salvage I	upp
+pyrimidine ribonucleosides salvage II	Rv3752c // cdd // iunH
+pyruvate decarboxylation to acetyl CoA	dlaT // lpdC // aceE
+reactive oxygen species degradation	sodA // sodC // katG // Rv2633c
+S-adenosyl-L-methionine biosynthesis	metK
+<i>S</i>-adenosyl-L-methionine cycle II	metK // sahH // metH // metE
+<i>S</i>-methyl-5'-thioadenosine degradation II	pnp
+<i>S</i>-methyl-5'-thioadenosine degradation IV	mtn
+salicylate biosynthesis I	entC // mbtI
+siroheme biosynthesis	cysG // hemD
+spermidine biosynthesis I	speE
+stearate biosynthesis II (bacteria and plants)	kasA // fabG4 // fabG2 // fabG1 // htdZ // htdY // htdX // hadB // hadA // inhA // fadD36 // fadD34 // fadD7 // fadD5 // fadD4 // fadD2 // fadD8 // fadD16 // fadD6 // fadD12 // fadD11.1 // fadD11 // fadD1 // fadD31 // fadD15 // fadD35 // fadD9 // fadD13 // fadD17 // fadD18
+sulfate activation for sulfonation	cysD // cysN
+superoxide radicals degradation	sodA // sodC // katG // Rv2633c
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	purN // purF // purD // purL // purQ // purM // purT
+superpathway of acetate utilization and formation	acs // ackA // pta
+superpathway of adenosine nucleotides <i>de novo</i> biosynthesis I	purA // purB // adk // nrdF2 // nrdF1 // nrdZ // ndkA
+superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II	purA // purB // adk // nrdF2 // nrdF1 // nrdZ // ndkA
+superpathway of adenosylcobalamin salvage from cobinamide I	cobS // cobC // cobT // cobU // Rv1314c
+superpathway of branched chain amino acid biosynthesis	leuB // leuA // leuC // leuD // ilvD // ilvE // ilvC // ilvX // ilvB2 // ilvB1 // ilvN // ilvG // ilvA // sdaA
+superpathway of cholesterol degradation II (cholesterol dehydrogenase)	kshA // kstD // hsaA // hsaC // hsaD // hsaF // hsaE // hsaG // fadD3 // fadE30 // ipdC // ipdF // echA20 // ipdA // ipdB // fadA6 // fadE32 // echA14 // echA17 // echA18 // echA1 // echA6 // echA8 // echA9 // Rv1136 // echA12 // choD // Rv1106c // fadE26 // fadE27 // echA19 // fadB3 // fadE34 // fadA3 // fadA2 // fadA5 // fadE28 // fadE29 // Rv3541c // Rv3542c // ltp2 // kshB // cyp125 // fadD19 // mcr // cyp142
+superpathway of guanosine nucleotides <i>de novo</i> biosynthesis I	guaB2 // guaB3 // guaB1 // guaA // gmk // nrdF2 // nrdF1 // nrdZ // ndkA
+superpathway of guanosine nucleotides <i>de novo</i> biosynthesis II	guaB2 // guaB3 // guaB1 // guaA // gmk // nrdF2 // nrdF1 // nrdZ // ndkA
+superpathway of heme <i>b</i> biosynthesis from uroporphyrinogen-III	hemY // che1 // hemZ // hemE // hemN
+superpathway of L-asparagine biosynthesis	asnB
+superpathway of L-isoleucine biosynthesis I	aspB // aspC // ask // asd // thrA // thrB // thrC // ilvD // ilvE // ilvC // ilvX // ilvB2 // ilvB1 // ilvN // ilvG // ilvA // sdaA
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	aspB // aspC // ask // asd // thrA // metE // metC // metX // metH // cysH // cysD // cysN
+superpathway of L-serine and glycine biosynthesis I	serC // serA1 // serA2 // serB2 // serB1 // glyA1 // glyA2
+superpathway of L-threonine biosynthesis	ask // asd // thrA // thrB // thrC // aspB // aspC
+superpathway of L-tryptophan biosynthesis	aroB // aroG // aroF // aroA // aroK // aroE // aroD // trpC // trpD // trpE // trpG // trpA // trpB
+superpathway of L-tyrosine biosynthesis	aroB // aroG // aroF // aroA // aroK // aroE // aroD // tyrA // Rv1885c // Rv0948c
+superpathway of mycolate biosynthesis	echA11 // echA10 // kasB // hadC // pcaA // cmaA1 // ufaA1 // mmaA2 // mmaA1 // cmaA2 // fadD32 // accD4 // accD5 // Rv2509 // Rv3802c // lpqX // otsB2 // otsB1 // Rv3400 // mmpL3 // fbpC // fbpA // fbpB // Rv0161 // mmaA3 // mmaA4 // fabH // kasA // fabG1 // hadB // hadA // inhA // fabG4 // fabG2 // accD1 // accD2 // accD3 // accA2 // accE5 // fas // htdZ // htdY // htdX // pks13
+superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis	rmlC // rmlD // rmlA // Rv3784 // Rv3468c // rmlB // prsA // glmU // glmS // mrsA // pgi // Rv2361c // Rv1086 // idsA2 // grcC2 // idi // Rv2136c // wecA // wbbL1 // glf // cpsY // galE2 // galE1 // glfT1 // glfT2 // fbpC // fbpA // fbpB // aftB // aftA // embB // embA // aftC // ubiA // Rv3807c // dprE1 // dprE2
+superpathway of purine deoxyribonucleosides degradation	deoD // add // deoC // hsaG
+superpathway of pyrimidine deoxyribonucleoside salvage	tmk // cmk // ndkA // Rv3752c // cdd // thyA
+superpathway of pyrimidine deoxyribonucleosides degradation	Rv3752c // cdd // deoA // deoC // hsaG
+superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	mazG // dut // tmk // nrdE // nrdZ // nrdF1 // nrdF2 // thyA // carB // carA // pyrB // pyrC // pyrE // pyrF // pyrD // pyrH // cmk // ndkA // pyrG
+superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	dcd // mazG // dut // tmk // ndkA // nrdE // nrdZ // nrdF1 // nrdF2 // thyA
+superpathway of pyrimidine nucleobases salvage	pyrH // cmk // ndkA // pyrG // upp
+superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis	carB // carA // pyrB // pyrC // pyrE // pyrF // pyrD // pyrH // cmk // ndkA // pyrG
+superpathway of sulfate assimilation and cysteine biosynthesis	cysH // cysD // cysN // cysE // cysK1 // serC // serA1 // serA2 // serB2 // serB1
+superpathway of tetrahydrofolate biosynthesis	folP1 // folP2 // folC // dfrA // folK // folB // folE // Rv2230c // pabB
+superpathway of tetrahydrofolate biosynthesis and salvage	folP1 // folP2 // folC // dfrA // folK // folB // folE // Rv2230c // pabB // purN // folD
+TCA cycle V (2-oxoglutarate synthase)	citA // gltA2 // acn // fum // icd2 // icd1 // Rv2455c // Rv2454c // sucC // sucD // mez // mdh
+tetrahydrofolate biosynthesis	folP1 // folP2 // folC // dfrA
+tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	purN // folD
+tetrapyrrole biosynthesis I (from glutamate)	hemC // hemB // hemL // hemA // gltS // gluU // gluT
+thiamine diphosphate biosynthesis I (E. coli)	thiL // thiE
+thiamine diphosphate biosynthesis II (Bacillus)	thiL // thiE
+thioredoxin pathway	trxB2
+thiosulfate disproportionation IV (rhodanese)	sseA // cysA3 // sseB // cysA2
+<i>trans, trans</i>-farnesyl diphosphate biosynthesis	idsA2 // grcC2 // idsA1 // idi
+trehalose biosynthesis I	otsA // otsB2
+trehalose biosynthesis II	otsA // otsB2
+trehalose biosynthesis III	otsB2 // otsA
+trehalose biosynthesis IV	treS
+trehalose biosynthesis V	treX // treY // treZ
+trehalose degradation II (cytosolic)	Rv2402
+trehalose degradation VI (periplasmic)	Rv2402
+tRNA charging	argS // cysS1 // gltS // ileS // leuS // valS // alaS // tyrS // trpS // thrS // serS // proS // pheT // pheS // lysS // lysX // hisS // glyS // metS // argV // argU // argW // argT // cysU // glnU // glnT // gluU // gluT // ileT // leuX // leuW // leuU // leuT // leuV // valV // valU // valT // alaU // alaV // alaT // asnT // aspT // tyrT // trpT // thrV // thrT // thrU // serT // serU // serV // serX // proT // proY // proU // pheU // metU // metV // metT // lysU // lysT // hisT // glyT // glyV // glyU
+tRNA processing	rnpA // rphA // rne
+UDP-&alpha;-D-galactofuranose biosynthesis	cpsY // galE2 // galE1 // glf
+UDP-&alpha;-D-galactose biosynthesis	cpsY // galE2 // galE1
+UDP-&alpha;-D-glucose biosynthesis I	galU // pgmA
+UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	udgA
+UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis I	galE1
+UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I	glmU // glmS // mrsA // pgi
+UMP biosynthesis I	carB // carA // pyrB // pyrC // pyrE // pyrF // pyrD
+urea degradation II	ureC // ureB // ureA
+UTP and CTP <i>de novo</i> biosynthesis	pyrH // cmk // ndkA // pyrG
+xanthine and xanthosine salvage	deoD
+[2Fe-2S] iron-sulfur cluster biosynthesis	iscS // csd

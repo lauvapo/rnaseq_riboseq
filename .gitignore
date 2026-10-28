@@ -1,0 +1,38 @@
+# Raw data and results (too large for GitHub, kept locally)
+data/
+results/
+
+# R and RStudio artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rprofile
+Rplots.pdf
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local overrides
+.claude/settings.local.json
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Large output files not needed for reproducibility
+*.pdf
+*.mp4
+*.pptx
+
+# Remove folder (legacy files and backups)
+remove/
