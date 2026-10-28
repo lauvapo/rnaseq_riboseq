@@ -62,17 +62,45 @@ paper_capreomycin_remapping/
 
 ## Quick Start
 
-### Prerequisites
-- R (≥ 4.0)
-- Required R packages (see INSTALLATION.md)
-- Raw RNA-seq and Ribo-seq counts in `data/RNA_seq/counts/CDS/` and `data/Ribo_seq/counts/CDS/`
+### Complete Workflow (from raw FASTQ to results)
 
-### Run the Pipeline
+#### Option 1: Using Conda (Recommended - All dependencies in one environment)
 
 ```bash
-cd /path/to/paper_capreomycin_remapping
+# 1. Create isolated Conda environment
+conda env create -f environment.yml
+conda activate capreomycin-pipeline
+
+# 2. Preprocess raw FASTQ files
+bash pipeline/preprocessing/process_fastq_rnaseq.sh
+bash pipeline/preprocessing/process_fastq_riboseq.sh
+
+# 3. Copy generated counts to expected locations
+cp counts/RNA/*_CDS.dedup.csv data/RNA_seq/counts/CDS/
+cp counts/Ribo/*_CDS.dedup.csv data/Ribo_seq/counts/CDS/
+
+# 4. Run main analysis pipeline
+Rscript pipeline/run_pipeline.R
+
+# 5. Deactivate environment when done
+conda deactivate
+```
+
+#### Option 2: If you already have count tables
+
+```bash
+# Just run the analysis pipeline
+conda env create -f environment.yml
+conda activate capreomycin-pipeline
 Rscript pipeline/run_pipeline.R
 ```
+
+### Prerequisites
+- **Conda** (Miniconda or Anaconda) - see CONDA_SETUP.md
+- Raw RNA-seq and Ribo-seq FASTQ files in `fastq/` (optional - if preprocessing)
+- OR count tables in `data/RNA_seq/counts/CDS/` and `data/Ribo_seq/counts/CDS/`
+
+### Output
 
 This generates:
 - `results/DE_and_enrichment_results.xlsx` — comprehensive results workbook

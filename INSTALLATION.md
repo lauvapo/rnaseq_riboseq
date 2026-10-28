@@ -9,21 +9,31 @@ Complete step-by-step instructions to set up and run the capreomycin pipeline.
 - **Disk Space**: ~5 GB (raw data) + ~2 GB (results)
 - **RAM**: 8 GB minimum (16 GB recommended)
 
-## Step 1: Install R
+## Step 1: Install Conda (Recommended)
 
-### Linux (Ubuntu/Debian)
+Conda manages R, Python, bioinformatics tools, and all dependencies in one isolated environment.
+
+### Install Miniconda (Lightweight - Recommended)
+
 ```bash
-sudo apt update
-sudo apt install r-base r-base-dev
+# Download (Linux)
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+# Install
+bash Miniconda3-latest-Linux-x86_64.sh
+
+# Restart terminal
+source ~/.bashrc
 ```
 
-### macOS
-```bash
-brew install r
-```
+### Or Install Anaconda
+Download from: https://www.anaconda.com/download
 
-### Windows
-Download from: https://cran.r-project.org/
+### Verify Installation
+```bash
+conda --version
+conda list
+```
 
 ## Step 2: Clone or Download the Repository
 
@@ -35,7 +45,54 @@ cd capreomycin-pipeline
 # Or download and extract the ZIP file manually
 ```
 
-## Step 3: Prepare Input Data
+## Step 3: Create Conda Environment (Recommended)
+
+This is the easiest way to install all dependencies (R, bioinformatics tools, Python, and all packages):
+
+```bash
+# From project directory
+conda env create -f environment.yml
+
+# This takes 10-15 minutes (downloads ~3 GB)
+```
+
+Every time you work on this project, activate the environment:
+
+```bash
+conda activate capreomycin-pipeline
+
+# You should see (capreomycin-pipeline) in your terminal prompt
+```
+
+**That's it for setup!** Skip to **Step 7: Run the Pipeline**.
+
+For more details on Conda, see **CONDA_SETUP.md**.
+
+---
+
+## Alternative: Manual Installation (Not Recommended)
+
+Skip this if you used Conda above.
+
+### Install R Manually
+
+#### Linux (Ubuntu/Debian)
+```bash
+sudo apt update
+sudo apt install r-base r-base-dev
+```
+
+#### macOS
+```bash
+brew install r
+```
+
+#### Windows
+Download from: https://cran.r-project.org/
+
+---
+
+## Step 4: Prepare Input Data
 
 ### Directory Structure
 Create and populate the `data/` directory:

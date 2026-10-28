@@ -1,0 +1,74 @@
+name: capreomycin-pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # R and base packages
+  - r-base=4.3
+  - r-essentials
+
+  # R package management
+  - r-devtools
+  - r-rmarkdown
+  - r-tidyverse
+
+  # Bioconductor packages (via conda)
+  - bioconductor-deseq2
+  - bioconductor-complexheatmap
+  - bioconductor-clusterprofiler
+  - bioconductor-org.mm.eg.db
+
+  # R visualization packages
+  - r-ggplot2
+  - r-ggrepel
+  - r-gridextra
+  - r-ggridges
+  - r-viridis
+  - r-scales
+  - r-cowplot
+
+  # R data manipulation
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-readxl
+  - r-openxlsx
+  - r-data.table
+
+  # R utilities
+  - r-stringr
+  - r-forcats
+  - r-lubridate
+  - r-glue
+
+  # Bioinformatics tools for raw data processing
+  - bowtie2=2.5
+  - samtools=1.17
+  - cutadapt=4.4
+  - subread=2.0
+  - fastqc=0.12
+  - multiqc=1.14
+
+  # Python (for utility scripts if needed)
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - biopython
+
+  # General utilities
+  - wget
+  - curl
+  - pigz
+
+  # Development tools
+  - git
+  - nano
+  - vim
+
+pip:
+  # Additional Python packages if needed
+  - pysam>=0.21
