@@ -17,7 +17,6 @@ dependencies:
   - bioconductor-deseq2
   - bioconductor-complexheatmap
   - bioconductor-clusterprofiler
-  - bioconductor-org.mm.eg.db
 
   # R visualization packages
   - r-ggplot2
@@ -68,7 +67,3 @@ dependencies:
   - git
   - nano
   - vim
-
-pip:
-  # Additional Python packages if needed
-  - pysam>=0.21

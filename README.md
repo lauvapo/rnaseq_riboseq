@@ -62,43 +62,58 @@ paper_capreomycin_remapping/
 
 ## Quick Start
 
-### Complete Workflow (from raw FASTQ to results)
+### Choose Your Setup Path:
 
-#### Option 1: Using Conda (Recommended - All dependencies in one environment)
-
+#### 🖥️ **Local Machine with Internet** → Use Conda
 ```bash
-# 1. Create isolated Conda environment
+git clone https://github.com/yourusername/capreomycin-pipeline.git
+cd capreomycin-pipeline
+
 conda env create -f environment.yml
 conda activate capreomycin-pipeline
 
-# 2. Preprocess raw FASTQ files
+# Preprocess (optional)
 bash pipeline/preprocessing/process_fastq_rnaseq.sh
 bash pipeline/preprocessing/process_fastq_riboseq.sh
 
-# 3. Copy generated counts to expected locations
-cp counts/RNA/*_CDS.dedup.csv data/RNA_seq/counts/CDS/
-cp counts/Ribo/*_CDS.dedup.csv data/Ribo_seq/counts/CDS/
-
-# 4. Run main analysis pipeline
+# Analyze
 Rscript pipeline/run_pipeline.R
-
-# 5. Deactivate environment when done
-conda deactivate
 ```
+See: **CONDA_SETUP.md** for detailed Conda instructions.
 
-#### Option 2: If you already have count tables
-
+#### 🔧 **Research Server (with/without internet)** → See SERVER_SETUP.md
 ```bash
-# Just run the analysis pipeline
-conda env create -f environment.yml
-conda activate capreomycin-pipeline
+git clone https://github.com/yourusername/capreomycin-pipeline.git
+cd capreomycin-pipeline
+
+# Automatic installation of R packages
+Rscript install_dependencies.R
+
+# Run analysis
 Rscript pipeline/run_pipeline.R
 ```
+See: **SERVER_SETUP.md** for server-specific instructions (modules, SLURM, offline setup, etc.)
 
-### Prerequisites
-- **Conda** (Miniconda or Anaconda) - see CONDA_SETUP.md
-- Raw RNA-seq and Ribo-seq FASTQ files in `fastq/` (optional - if preprocessing)
-- OR count tables in `data/RNA_seq/counts/CDS/` and `data/Ribo_seq/counts/CDS/`
+#### ⚡ **Quick Install** (if you already have count tables)
+```bash
+git clone https://github.com/yourusername/capreomycin-pipeline.git
+cd capreomycin-pipeline
+
+Rscript install_dependencies.R  # Install R packages
+Rscript pipeline/run_pipeline.R # Run analysis
+```
+
+### Prerequisites by Setup Type
+
+**Local machine with Conda:**
+- Conda (Miniconda or Anaconda)
+- `environment.yml` handles everything
+
+**Research server:**
+- R (≥ 4.0)
+- Bioinformatics tools (bowtie2, samtools, cutadapt, featureCounts) - see SERVER_SETUP.md
+- `install_dependencies.R` installs R packages
+- Raw FASTQ or count tables
 
 ### Output
 
